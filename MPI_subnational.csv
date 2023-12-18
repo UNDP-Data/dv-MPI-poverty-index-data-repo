@@ -48,15 +48,13 @@ MRT,Mauritania,Sub-Saharan Africa,Africa,EPCV,2019,region,Nouadhibou,1,3,0.126,2
 MRT,Mauritania,Sub-Saharan Africa,Africa,EPCV,2019,region,Tiris Zemmour,1,1.9,0.122,25.2,48.5
 NGA,Nigeria,Sub-Saharan Africa,Africa,MPIS,2022,state,Abia,1,1.8,0.101,29.8,33.9
 NGA,Nigeria,Sub-Saharan Africa,Africa,MPIS,2022,state,Adamawa,1,2.4,0.283,68.7,41.2
-NGA,Nigeria,Sub-Saharan Africa,Africa,MPIS,2022,state,"Akwa
-Ibom",1,3.4,0.293,71.3,41.1
+NGA,Nigeria,Sub-Saharan Africa,Africa,MPIS,2022,state,Akwa Ibom,1,3.4,0.293,71.3,41.1
 NGA,Nigeria,Sub-Saharan Africa,Africa,MPIS,2022,state,Anambra,1,2.4,0.109,32.1,34.1
 NGA,Nigeria,Sub-Saharan Africa,Africa,MPIS,2022,state,Bauchi,1,3.7,0.298,73.9,40.4
 NGA,Nigeria,Sub-Saharan Africa,Africa,MPIS,2022,state,Bayelsa,1,1.4,0.401,88.5,45.3
 NGA,Nigeria,Sub-Saharan Africa,Africa,MPIS,2022,state,Benue,1,3,0.312,75,41.6
 NGA,Nigeria,Sub-Saharan Africa,Africa,MPIS,2022,state,Borno,1,1.5,0.315,72.5,43.4
-NGA,Nigeria,Sub-Saharan Africa,Africa,MPIS,2022,state,"Cross
-River",1,2.2,0.299,75.4,39.7
+NGA,Nigeria,Sub-Saharan Africa,Africa,MPIS,2022,state,Cross River,1,2.2,0.299,75.4,39.7
 NGA,Nigeria,Sub-Saharan Africa,Africa,MPIS,2022,state,Delta,1,2.7,0.173,47.6,36.4
 NGA,Nigeria,Sub-Saharan Africa,Africa,MPIS,2022,State,Ebonyi,1,2.2,0.32,78,41.1
 NGA,Nigeria,Sub-Saharan Africa,Africa,MPIS,2022,State,Edo,1,1.9,0.126,35.4,35.6
@@ -307,8 +305,7 @@ NAM,Namibia,Sub-Saharan Africa,Africa,amibian Household Income and Expenditure S
 NAM,Namibia,Sub-Saharan Africa,Africa,amibian Household Income and Expenditure Survey (NHIES),2015-2016,region,Erongo,1,7.7,0.044,16.6,38
 NAM,Namibia,Sub-Saharan Africa,Africa,amibian Household Income and Expenditure Survey (NHIES),2015-2016,region,Hardap,1,3.8,0.071,26.9,40.4
 NAM,Namibia,Sub-Saharan Africa,Africa,amibian Household Income and Expenditure Survey (NHIES),2015-2016,region,Kavango East,1,5.8,0.291,70,47.4
-NAM,Namibia,Sub-Saharan Africa,Africa,amibian Household Income and Expenditure Survey (NHIES),2015-2016,region,"Kavango
-West",1,4,0.348,79.6,48.5
+NAM,Namibia,Sub-Saharan Africa,Africa,amibian Household Income and Expenditure Survey (NHIES),2015-2016,region,Kavango West,1,4,0.348,79.6,48.5
 NAM,Namibia,Sub-Saharan Africa,Africa,amibian Household Income and Expenditure Survey (NHIES),2015-2016,region,Khomas,1,17.6,0.076,25.5,39.5
 NAM,Namibia,Sub-Saharan Africa,Africa,amibian Household Income and Expenditure Survey (NHIES),2015-2016,region,Kunene,1,4,0.304,64.1,59.2
 NAM,Namibia,Sub-Saharan Africa,Africa,amibian Household Income and Expenditure Survey (NHIES),2015-2016,region,Ohangwena,1,11.4,0.212,56.6,42.7
@@ -396,100 +393,6 @@ PAK,Pakistan,South Asia,Asia,PSLM,2014-2015,province,Balochistan,1,,0.394,71.2,5
 PAK,Pakistan,South Asia,Asia,PSLM,2014-2015,province,Gilgit Baltistan,1,,0.209,43.2,48.3
 PAK,Pakistan,South Asia,Asia,PSLM,2014-2015,province,Azad Kashmir,1,,0.115,24.9,46.3
 PAK,Pakistan,South Asia,Asia,PSLM,2014-2015,province,FATA,1,,0.337,73.7,45.8
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Kaimbu,1,11.2,0.074,18.3,40.3
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Kirinyaga,1,11.2,0.074,18.3,40.3
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Murang'a,1,11.2,0.074,18.3,40.3
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Nyandarua,1,11.2,0.074,18.3,40.3
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Nyeri,1,11.2,0.074,18.3,40.3
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Kilifi,1,9.8,0.212,44.7,47.5
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Kwale,1,9.8,0.212,44.7,47.5
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Lamu,1,9.8,0.212,44.7,47.5
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Mombasa,1,9.8,0.212,44.7,47.5
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Taita-Taveta,1,9.8,0.212,44.7,47.5
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Tana River,1,9.8,0.212,44.7,47.5
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Embu,1,14.9,0.178,40.1,44.4
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Isiolo ,1,14.9,0.178,40.1,44.4
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region, Kitui ,1,14.9,0.178,40.1,44.4
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Machakos,1,14.9,0.178,40.1,44.4
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Makueni,1,14.9,0.178,40.1,44.4
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Marsabit,1,14.9,0.178,40.1,44.4
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Meru,1,14.9,0.178,40.1,44.4
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Tharaka Nithi,1,14.9,0.178,40.1,44.4
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Nairobi,1,8.7,0.028,7.1,39.7
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Garissa,1,2.9,0.484,84.6,57.2
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Mandera,1,2.9,0.484,84.6,57.2
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Wajir ,1,2.9,0.484,84.6,57.2
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region, Homa Bay,1,14.1,0.165,38.8,42.5
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Kisii ,1,14.1,0.165,38.8,42.5
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Kisumu ,1,14.1,0.165,38.8,42.5
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Migori,1,14.1,0.165,38.8,42.5
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Nyamira,1,14.1,0.165,38.8,42.5
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Siaya,1,14.1,0.165,38.8,42.5
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Baringo,1,26.6,0.206,44.2,46.6
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Bomet,1,26.6,0.206,44.2,46.6
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Elgeyo-Marakwet ,1,26.6,0.206,44.2,46.6
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Kajiado,1,26.6,0.206,44.2,46.6
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Kericho,1,26.6,0.206,44.2,46.6
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Laikipia,1,26.6,0.206,44.2,46.6
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Nakuru,1,26.6,0.206,44.2,46.6
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Nandi,1,26.6,0.206,44.2,46.6
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Narok,1,26.6,0.206,44.2,46.6
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Samburu,1,26.6,0.206,44.2,46.6
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Trans-Nzoia,1,26.6,0.206,44.2,46.6
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Turkana ,1,26.6,0.206,44.2,46.6
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Uasin Gishu ,1,26.6,0.206,44.2,46.6
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,West Pokot ,1,26.6,0.206,44.2,46.6
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Bungoma ,1,11.8,0.177,40.6,43.5
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Busia,1,11.8,0.177,40.6,43.5
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Kakamega,1,11.8,0.177,40.6,43.5
-KEN,Kenya,Eastern Africa,Africa,DHS,2014,region,Vihiga ,1,11.8,0.177,40.6,43.5
-LSO,Lesotho,South Africa,Africa,MICS,2018,region,Butha-Buthe,1,8.7,0.154,35.5,43.5
-LSO,Lesotho,South Africa,Africa,MICS,2018,region,Mafeteng,1,64,0.041,9.8,41.5
-LSO,Lesotho,South Africa,Africa,MICS,2018,region,Maseru,1,64,0.041,9.8,41.5
-LSO,Lesotho,South Africa,Africa,MICS,2018,region,Berea,1,64,0.041,9.8,41.5
-LSO,Lesotho,South Africa,Africa,MICS,2018,region,Leribe,1,64,0.041,9.8,41.5
-LSO,Lesotho,South Africa,Africa,MICS,2018,region,Thaba-Tseka,1,19.1,0.185,41.6,44.4
-LSO,Lesotho,South Africa,Africa,MICS,2018,region,Mokhotlong,1,19.1,0.185,41.6,44.4
-LSO,Lesotho,South Africa,Africa,MICS,2018,region,Mohale's Hoek,1,8.2,0.116,27.8,41.8
-LSO,Lesotho,South Africa,Africa,MICS,2018,region,Qacha's Nek,1,8.2,0.116,27.8,41.8
-LSO,Lesotho,South Africa,Africa,MICS,2018,region,Quthing,1,8.2,0.116,27.8,41.8
-LBR,Liberia,Sub-Saharan Africa,Africa,DHS,2019-2020,region,Bomi,1,3.2,0.304,65.4,46.5
-LBR,Liberia,Sub-Saharan Africa,Africa,DHS,2019-2020,region,Bong,1,10,0.371,71.1,52.2
-LBR,Liberia,Sub-Saharan Africa,Africa,DHS,2019-2020,region,Gbarpolu,1,1.6,0.396,76.1,52
-LBR,Liberia,Sub-Saharan Africa,Africa,DHS,2019-2020,region,Grand Bassa,1,5.7,0.391,72,54.3
-LBR,Liberia,Sub-Saharan Africa,Africa,DHS,2019-2020,region,Grand Cape Mount,1,3.3,0.361,73.3,49.2
-LBR,Liberia,Sub-Saharan Africa,Africa,DHS,2019-2020,region,Grand Gedeh,1,2.1,0.297,62,47.9
-LBR,Liberia,Sub-Saharan Africa,Africa,DHS,2019-2020,region,Grand Kru,1,1.8,0.336,66.9,50.2
-LBR,Liberia,Sub-Saharan Africa,Africa,DHS,2019-2020,region,Lofa,1,7.9,0.318,66.3,48
-LBR,Liberia,Sub-Saharan Africa,Africa,DHS,2019-2020,region,Margibi,1,5.9,0.255,50.8,50.1
-LBR,Liberia,Sub-Saharan Africa,Africa,DHS,2019-2020,region,Maryland,1,2.9,0.282,57,49.5
-LBR,Liberia,Sub-Saharan Africa,Africa,DHS,2019-2020,region,Montserrado,1,34,0.122,26.4,46.3
-LBR,Liberia,Sub-Saharan Africa,Africa,DHS,2019-2020,region,Nimba,1,16,0.326,65.8,49.6
-LBR,Liberia,Sub-Saharan Africa,Africa,DHS,2019-2020,region,River Cess,1,1.6,0.415,76,54.6
-LBR,Liberia,Sub-Saharan Africa,Africa,DHS,2019-2020,region,River Gee,1,1.2,0.28,59.9,46.8
-LBR,Liberia,Sub-Saharan Africa,Africa,DHS,2019-2020,region,Sinoe,1,2.6,0.267,54.4,49
-MD,Madagascar,Southeastern Africa,Africa,MICS,2018,region,Alaotra Mangoro,1,5,0.341,64.9,52.6
-MD,Madagascar,Southeastern Africa,Africa,MICS,2018,region,Amoron’I Mania,1,3.3,0.423,77.1,54.9
-MD,Madagascar,Southeastern Africa,Africa,MICS,2018,region,Analamanga,1,13.6,0.18,36.9,48.6
-MD,Madagascar,Southeastern Africa,Africa,MICS,2018,region,Analanjirofo,1,4.1,0.278,57,48.7
-MD,Madagascar,Southeastern Africa,Africa,MICS,2018,region,Androy,1,4.2,0.56,92.9,60.2
-MD,Madagascar,Southeastern Africa,Africa,MICS,2018,region,Anosy,1,3.4,0.519,84.4,61.4
-MD,Madagascar,Southeastern Africa,Africa,MICS,2018,region,Atsimo Andrefana,1,7.4,0.552,87.9,62.8
-MD,Madagascar,Southeastern Africa,Africa,MICS,2018,region,Atsimo Atsinanana,1,4.4,0.536,91.2,58.8
-MD,Madagascar,Southeastern Africa,Africa,MICS,2018,region,Atsinanana,1,5.6,0.349,66.5,52.4
-MD,Madagascar,Southeastern Africa,Africa,MICS,2018,region,Betsiboka,1,1.5,0.435,76.9,56.6
-MD,Madagascar,Southeastern Africa,Africa,MICS,2018,region,Boeny,1,3,0.401,68.8,58.3
-MD,Madagascar,Southeastern Africa,Africa,MICS,2018,region,Bongolava,1,2.9,0.435,78.9,55.1
-MD,Madagascar,Southeastern Africa,Africa,MICS,2018,region,Diana,1,3.5,0.256,52.1,49.1
-MD,Madagascar,Southeastern Africa,Africa,MICS,2018,region,Haute Matsiatra,1,5.6,0.409,74.7,54.7
-MD,Madagascar,Southeastern Africa,Africa,MICS,2018,region,Ihorombe,1,1.4,0.48,81.8,58.7
-MD,Madagascar,Southeastern Africa,Africa,MICS,2018,region,Itasy,1,3.6,0.376,71.3,52.7
-MD,Madagascar,Southeastern Africa,Africa,MICS,2018,region,Melaky,1,1.1,0.487,84.9,57.4
-MD,Madagascar,Southeastern Africa,Africa,MICS,2018,region,Menabe,1,3.5,0.472,79.7,59.2
-MD,Madagascar,Southeastern Africa,Africa,MICS,2018,region,Sava,1,3.4,0.259,55.4,46.8
-MD,Madagascar,Southeastern Africa,Africa,MICS,2018,region,Sofia,1,5.8,0.316,62.1,50.9
-MD,Madagascar,Southeastern Africa,Africa,MICS,2018,region,Vakinankaratra,1,8.1,0.383,70,54.6
-MD,Madagascar,Southeastern Africa,Africa,MICS,2018,region,Vatovavy Fitovinany,1,5.6,0.512,85.8,59.7
 ML,Mali,West Africa,Africa,DHS,2018,region,Bamako,1,14.9,0.11,25.5,43.3
 ML,Mali,West Africa,Africa,DHS,2018,region,Gao,1,2.8,0.473,83.7,56.4
 ML,Mali,West Africa,Africa,DHS,2018,region,Kayes,1,14.4,0.421,75.1,56
@@ -499,18 +402,6 @@ ML,Mali,West Africa,Africa,DHS,2018,region,Mopti,1,11.8,0.496,86.4,57.4
 ML,Mali,West Africa,Africa,DHS,2018,region,Sikasso,1,16.8,0.416,77.8,53.5
 ML,Mali,West Africa,Africa,DHS,2018,region,Ségou,1,16.1,0.424,76.2,55.6
 ML,Mali,West Africa,Africa,DHS,2018,region,Timbuktu,1,3.9,0.535,87.5,61.2
-MAR,Morocco,North Africa,Africa,PAPFAM,2017-2018,region,Béni Mellal-Khénifra,1,6.8,0.07,14.2,49.4
-MAR,Morocco,North Africa,Africa,PAPFAM,2017-2018,region,Drâa-Tafilalet,1,4.4,0.04,9.1,44.4
-MAR,Morocco,North Africa,Africa,PAPFAM,2017-2018,region,Ed Dakhla-Oued ed Dahab,1,0.4,0.016,4.3,38.5
-MAR,Morocco,North Africa,Africa,PAPFAM,2017-2018,region,Fès-Meknès,1,12,0.023,5.8,40.6
-MAR,Morocco,North Africa,Africa,PAPFAM,2017-2018,region,Guelmim-Oued Noun,1,1.2,0.017,4.8,35.1
-MAR,Morocco,North Africa,Africa,PAPFAM,2017-2018,region,Laâyoune-Sakia El Hamra,1,1.2,0.01,2.7,37.7
-MAR,Morocco,North Africa,Africa,PAPFAM,2017-2018,region,Marrakech-Safi,1,14,0.039,9.7,40
-MAR,Morocco,North Africa,Africa,PAPFAM,2017-2018,region,Marrakech-Tensift-El Haouz,1,20.8,0.014,3.5,39.8
-MAR,Morocco,North Africa,Africa,PAPFAM,2017-2018,region,Oriental,1,7.3,0.042,9.2,45.8
-MAR,Morocco,North Africa,Africa,PAPFAM,2017-2018,region,Rabat-Salé-Kénitra,1,13,0.014,3.7,36.9
-MAR,Morocco,North Africa,Africa,PAPFAM,2017-2018,region,Souss-Massa,1,7.4,0.03,7.4,40.5
-MAR,Morocco,North Africa,Africa,PAPFAM,2017-2018,region,Tanger-Tetouan-Al Hoceima,1,11.6,0.014,3.6,38.2
 MOZ,Mozambique,South Africa,Africa,DHS,2011,region,Cabo Delgado,1,8,0.54,88.8,60.8
 MOZ,Mozambique,South Africa,Africa,DHS,2011,region,Gaza,1,5.5,0.355,66.5,53.4
 MOZ,Mozambique,South Africa,Africa,DHS,2011,region,Inhambane,1,5.9,0.366,70.5,52
@@ -522,14 +413,6 @@ MOZ,Mozambique,South Africa,Africa,DHS,2011,region,Niassa,1,5.9,0.481,83.1,57.9
 MOZ,Mozambique,South Africa,Africa,DHS,2011,region,Sofala,1,9.3,0.406,72.8,55.8
 MOZ,Mozambique,South Africa,Africa,DHS,2011,region,Tete,1,12.5,0.482,82.3,58.6
 MOZ,Mozambique,South Africa,Africa,DHS,2011,region,Zambezia,1,18.9,0.536,89.3,60
-NER,Niger,West Africa,Africa,DHS,2012,region,Agadez,1,1.9,0.413,71.2,58
-NER,Niger,West Africa,Africa,DHS,2012,region,Diffa,1,3,0.577,92.6,62.3
-NER,Niger,West Africa,Africa,DHS,2012,region,Dosso,1,12.6,0.625,95.2,65.6
-NER,Niger,West Africa,Africa,DHS,2012,region,Maradi,1,23.3,0.651,95.3,68.4
-NER,Niger,West Africa,Africa,DHS,2012,region,Niamey,1,6.4,0.231,46.2,50
-NER,Niger,West Africa,Africa,DHS,2012,region,Tahoua,1,22.1,0.632,94.6,66.8
-NER,Niger,West Africa,Africa,DHS,2012,region,Tillaberi,1,12.6,0.613,93.1,65.8
-NER,Niger,West Africa,Africa,DHS,2012,region,Zinder,1,18.1,0.63,94.2,66.9
 BTN,Bhutan,South Central Asia,Asia,BLSS,2022,region,Bumthang,1,,0.044,10.5,41.5
 BTN,Bhutan,South Central Asia,Asia,BLSS,2022,region,Chhukha,1,,0.073,17.6,41.4
 BTN,Bhutan,South Central Asia,Asia,BLSS,2022,region,Dagana,1,,0.092,21.3,42.9
@@ -575,3 +458,7 @@ LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Ratnapura,2,3.5,0.116,28,41.3
 LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Monaragala,2,2.9,0.141,32.7,43.2
 LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Badulla,2,4.2,0.153,36.6,41.8
 LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Nuwara Eliya,2,3.1,0.193,44.2,43.8
+WSM,Samoa,East Asia and the Pacific,Oceania,HIES,2018,region,Apia Urban Area,1,,0.048,11.4,42.2
+WSM,Samoa,East Asia and the Pacific,Oceania,HIES,2018,region,North West Upolu,1,,0.099,22.2,44.5
+WSM,Samoa,East Asia and the Pacific,Oceania,HIES,2018,region,Rest of Upolu,1,,0.151,34.3,44.1
+WSM,Samoa,East Asia and the Pacific,Oceania,HIES,2018,region,Savaii,1,,0.134,30.8,43.6

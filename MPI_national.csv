@@ -1,30 +1,23 @@
-country code,country,Year,location,MPI,"Headcount Ratio (H, %)","Intensity (A, %)",indicators files
-AFG,Afghanistan,2016-2017,national,0.272,51.7,52.5,Afghanistan
-AGO,Angola,2015-2016,national,0.264,54,48.9,"Angola, Angola_1"
-BTN,Bhutan,2022,national,0.076,17.8,42.8,Bhutan
-GHA,Ghana,2016-2017,national,0.236,45.6,51.7,"Ghana,Ghana_1"
-GIN,Guinea,2018,national,0.373,66.2,56.4,
-IND,India,2015-2016,national,0.118,25.01,47.13,India
-KEN,Kenya,2014,national,0.171,37.5,45.6,
-LSO,Lesotho,2018,national,0.084,19.6,43,
-LBR,Liberia,2019-2020,national,0.259,52.3,49.6,
-MDG,Madagascar,2018,national,0.384,69.1,55.6,
-MWI,Malawi,2016-2017,national,0.337,61.7,54.6,"Malawi, Malawi_2"
-MDV,Maldives,2016-2017,national,0.145,28.4,51.1,
-MLI,Mali,2018,national,0.376,68.3,55,
-MRT,Mauritania,2019,national,0.32,56.9,56.3,
-MAR,Morocco,2017-2018,national,0.027,6.4,42,
-MOZ,Mozambique,2011,national,0.417,73.1,57,
-NAM,Namibia,2015-2016,national,0.191,43.3,44,"Namibia, Namibia_1"
-NPL,Nepal,2019,national,0.074,17.4,42.5,"Nepal, Nepal_1"
-NER,Niger,2012,national,0.601,91,66.1,
-NGA,Nigeria,2021-2022,national,0.257,62.9,40.9,Nigeria
-PAK,Pakistan,2014-2015,national,0.2,38.8,50.9,Pakistan
-PSE,Palestine,2016-2017,national,0.102,24,42.4,
-PRY,Paraguay,2017,national,0.094,24.93,37.7,
-WSM,Samoa,2018,national,0.109,24.9,43.9,
-SYC,Seychelles,2019,national,0.056,19.51,28.9,
-SLE,Sierra Leone,2017,national,0.375,64.8,57.9,
-LKA,Sri Lanka,2019,national,0.067,16,41.6,
-THA,Thailand,2015-2016,national,0.075,21.5,34.7,
-UGA,Uganda,2019-2020,national,0.23,42.1,54.5,"Uganda, Uganda_1, Uganda_2"
+country code,country,Year,location,MPI,"Headcount Ratio (H, %)","Intensity (A, %)",display map,note,indicators files,report name,url report,placement definitions,page definitions
+AFG,Afghanistan,2016-2017,national,0.272,51.7,52.5,,,Afghanistan,"Afghanistan, Multidimensional Poverty Index 2016–2017",https://www.mppn.org/wp-content/uploads/2019/03/AFG_2019_vs9_online.pdf,"TABLE 2.1 Dimensions, indicators, and weights of the A-MPI",4
+AGO,Angola,2015-2016,national,0.264,54,48.9,,,"Angola, Angola_1",Pobreza multidimensional em Angola,https://ophi.org.uk/wp-content/uploads/Angola_PM_2020.pdf,"Quadro 1 - Dimensões, indicadores e linhas de privação",20
+BTN,Bhutan,2022,national,0.076,17.8,42.8,,,Bhutan,Bhutan Multidimensional Poverty Index 2017,https://ophi.org.uk/wp-content/uploads/Bhutan_2017_vs5_23Dec_online.pdf,"TABLE 2.1 Dimensions, Indicators, and Weights of Bhutan’s MPI",7
+GHA,Ghana,2016-2017,national,0.236,45.6,51.7,,,"Ghana,Ghana_1",Multidimensional Poverty Ghana,https://ophi.org.uk/wp-content/uploads/Ghana_MPI_report_2020.pdf,"Table 2.1: Ghana’s national MPI – indicators, deprivation cut-offs and weights",7
+IND,India,2015-2016,national,0.118,25.01,47.13,,,India,"India, National Multidimensional Poverty Index Baseline Report",https://ophi.org.uk/wp-content/uploads/India_MPI_2021_REPORT.pdf,Figure1: Indicators in India's National MPI,15
+MWI,Malawi,2016-2017,national,0.337,61.7,54.6,,,"Malawi, Malawi_2",Malawi Multidimensional Poverty Index,https://ophi.org.uk/wp-content/uploads/Malawi_MPI_report_2021.pdf,Table 1: Proposed Indicators and Deprivation Cut-offs,6
+MDV,Maldives,2016-2017,national,0.145,28.4,51.1,1,,,National Multidimensional Poverty Index in Maldives 2020,https://ophi.org.uk/wp-content/uploads/National_MD_Poverty_in_Maldives_2020.pdf,Table 2.1: Maldives MPI-indicators deprivation cut-offs and weights,26
+MLI,Mali,2018,national,0.376,68.3,55,,,,La pauvreté à plusieurs dimensions au Mali,https://www.instat-mali.org/laravel-filemanager/files/shares/eq/rap-ind16-17_eq.pdf,"Tableau 1 : Dimensions, indicateurs et poids pour la construction de l’IPM national",8
+MRT,Mauritania,2019,national,0.32,56.9,56.3,,,,Pauvreté Multidimensionnelle en Mauritanie,https://ophi.org.uk/wp-content/uploads/Mauritania_MPI_2022_Briefing_2023.pdf,Annexe: Structure de l'IPM-M,13
+MOZ,Mozambique,2011,national,0.417,73.1,57,,,,Poverty and Well-being in Mozambique: Fourth National Poverty Assessment (IOF 2014/2015) ,https://www.wider.unu.edu/sites/default/files/Final_QUARTA%20AVALIA%C3%87AO%20NACIONAL%20DA%20POBREZA_2016-10-26_2.pdf,"Tabela 4-1: Dimensões, indicadores, condição de privação e ponderadores",30
+NAM,Namibia,2015-2016,national,0.191,43.3,44,,,"Namibia, Namibia_1",Namibia Multidimensional Poverty Index Report 2021,https://ophi.org.uk/wp-content/uploads/Namibia_MPI_report_2021.pdf,Table 1: Structure of the MPI,14
+NPL,Nepal,2019,national,0.074,17.4,42.5,,,"Nepal, Nepal_1",Nepal Multidimensional Poverty Index 2021,https://ophi.org.uk/wp-content/uploads/Nepal_MPI_Report_2021.pdf,"TABLE 1.1: Nepal’s Previous MPI – Indicators, Deprivations Cut-offs, and Weights",78
+NGA,Nigeria,2021-2022,national,0.257,62.9,40.9,,,Nigeria,Nigeria Multidimensional Poverty Index (2022),https://ophi.org.uk/wp-content/uploads/Nigeria_MPI_2022_report.pdf,"Table 2: The Nigeria MPI (2022)—dimensions, indicators, deprivation cutoffs, links to SDGs and weight",17
+PAK,Pakistan,2014-2015,national,0.2,38.8,50.9,,,Pakistan,Multidimensional Poverty in Pakistan,https://ophi.org.uk/wp-content/uploads/MPDR_OPHI_UNDP_Multidimensional_poverty_Pakistan_2016.pdf,"Table 2.1 Indicators, Deprivation Cut-offs and Weights",9
+PSE,Palestine,2016-2017,national,0.102,24,42.4,,,,"Multi-Dimensional Poverty Profile in Palestine, 2017",https://ophi.org.uk/wp-content/uploads/Palestine_MPI_2017_2020.pdf,,22
+PRY,Paraguay,2017,national,0.094,24.93,37.7,,,,Índice de pobreza multidimensional Paraguay,https://ophi.org.uk/wp-content/uploads/Paraguay_MPI_2021_compressed.pdf,Gráfico 6: Dimensiones e indicadores del IPM ,19
+WSM,Samoa,2018,national,0.109,24.9,43.9,1,,,Samoa Multidimensional Poverty Index 2022,https://ophi.org.uk/wp-content/uploads/Samoa_MPI_Report_2022.pdf,"Table 2: Dimensions, Indicators, Deprivation Cut-offs and Weights ",6
+SYC,Seychelles,2019,national,0.056,19.51,28.9,1,,,Multidimensional Poverty Index Report 2019 Seychelles,https://ophi.org.uk/wp-content/uploads/Seychelles_MPI_2019_2020.pdf,Table 1b: Dimensions and indicators of the 2019 MPI,14
+SLE,Sierra Leone,2017,national,0.375,64.8,57.9,,,,Sierra Leone Multidimensional Poverty Index 2019,https://ophi.org.uk/wp-content/uploads/Sierra_Leone_MPI_2019_final.pdf,"Table 1: Dimensions, indicators, deprivation cut-offs, and weights of the National MPI",5
+LKA,Sri Lanka,2019,national,0.067,16,41.6,,,,Multidimensional Poverty in Sri Lanka,http://www.statistics.gov.lk/Poverty/StaticalInformation/MultidimensionalPovertyinSriLanka-2019,Appendix 01: Deprivation Cut-offs for the National MPI,10
+THA,Thailand,2015-2016,national,0.075,21.5,34.7,,The data displayed in this page refers to <strong>Child multidimensional poverty<strong>.,,Child multidimensional poverty in Thailand,https://ophi.org.uk/wp-content/uploads/NESDC_UNICEF-Thailand_2019_Child_MDP_in_Thailand.pdf,"Table 2.1 Dimensions, Indicators, Cutoffs, and Weights of Thailand’s Child MPI",
+UGA,Uganda,2019-2020,national,0.23,42.1,54.5,,,"Uganda, Uganda_1, Uganda_2",Multidimensional Poverty Index Report 2022,https://www.ubos.org/wp-content/uploads/publications/08_2022Multi_Poverty_Dimensional_Index_Report_2022.pdf,"Table 2.1: Dimensions, indicators, specific deprivation weights and cut-offs",11
