@@ -462,3 +462,93 @@ WSM,Samoa,East Asia and the Pacific,Oceania,HIES,2018,region,Apia Urban Area,1,,
 WSM,Samoa,East Asia and the Pacific,Oceania,HIES,2018,region,North West Upolu,1,,0.099,22.2,44.5
 WSM,Samoa,East Asia and the Pacific,Oceania,HIES,2018,region,Rest of Upolu,1,,0.151,34.3,44.1
 WSM,Samoa,East Asia and the Pacific,Oceania,HIES,2018,region,Savaii,1,,0.134,30.8,43.6
+KGZ,Kyrgyzstan,Central Asia,Asia,Kyrgyz Integrated Household Survey (KIHS),2016,,Issykul,,,0.253,45.7,55.3
+KGZ,Kyrgyzstan,Central Asia,Asia,Kyrgyz Integrated Household Survey (KIHS),2016,,Jalal-Abad,,,0.351,59.6,58.8
+KGZ,Kyrgyzstan,Central Asia,Asia,Kyrgyz Integrated Household Survey (KIHS),2016,,Naryn,,,0.331,58.3,56.8
+KGZ,Kyrgyzstan,Central Asia,Asia,Kyrgyz Integrated Household Survey (KIHS),2016,,Batken,,,0.413,64.9,63.6
+KGZ,Kyrgyzstan,Central Asia,Asia,Kyrgyz Integrated Household Survey (KIHS),2016,,Osh,,,0.324,57.5,56.3
+KGZ,Kyrgyzstan,Central Asia,Asia,Kyrgyz Integrated Household Survey (KIHS),2016,,Talas,,,0.244,49.8,48.9
+KGZ,Kyrgyzstan,Central Asia,Asia,Kyrgyz Integrated Household Survey (KIHS),2016,,Chui,,,0.253,45.4,55.8
+KGZ,Kyrgyzstan,Central Asia,Asia,Kyrgyz Integrated Household Survey (KIHS),2016,,Bishkek,,,0.122,26.7,45.5
+KGZ,Kyrgyzstan,Central Asia,Asia,Kyrgyz Integrated Household Survey (KIHS),2016,,Osh city,,,0.251,47.3,53.1
+RWA,Rwanda,East Africa,Africa,Integrated Household Living Conditions Survey (EICV 3-5),2016-2017,,Kigali City,1,,0.068,13.3,50.8
+RWA,Rwanda,East Africa,Africa,,2016-2017,,Southern Province,1,,0.19,36,52.7
+RWA,Rwanda,East Africa,Africa,,2016-2017,,Western Province,1,,0.158,30.8,51.2
+RWA,Rwanda,East Africa,Africa,,2016-2017,,Northern Province,1,,0.114,22.9,49.7
+RWA,Rwanda,East Africa,Africa,,2016-2017,,Eastern Province,1,,0.167,32.2,51.7
+SEN,Senegal,West Africa,Africa,,2011,,Dakar,1,,0.08,19.7,38.7
+SEN,Senegal,West Africa,Africa,,2011,,Ziguinchor,1,,0.17,46.3,37.8
+SEN,Senegal,West Africa,Africa,,2011,,Diourbel,1,,0.34,79.7,43.3
+SEN,Senegal,West Africa,Africa,,2011,,Saint-Louis,1,,0.28,69.4,41
+SEN,Senegal,West Africa,Africa,,2011,,Tambacounda,1,,0.36,81.8,44.5
+SEN,Senegal,West Africa,Africa,,2011,,Kaolack,1,,0.32,75.6,42.5
+SEN,Senegal,West Africa,Africa,,2011,,Thiès,1,,0.27,62.6,42.7
+SEN,Senegal,West Africa,Africa,,2011,,Louga,1,,0.35,79.3,44.6
+SEN,Senegal,West Africa,Africa,,2011,,Fatick,1,,0.3,73.4,41.5
+SEN,Senegal,West Africa,Africa,,2011,,Kolda,1,,0.38,86.4,44.5
+SEN,Senegal,West Africa,Africa,,2011,,Matam,1,,0.35,81.4,43
+SEN,Senegal,West Africa,Africa,,2011,,Kaffrine,1,,0.38,86.1,43.8
+SEN,Senegal,West Africa,Africa,,2011,,Kédougou,1,,0.35,84,41.6
+SEN,Senegal,West Africa,Africa,,2011,,Sédhiou,1,,0.36,82.6,43.4
+VNM,Vietnam,Southeast Asia,Asia,Viet Nam Household Living Standards Survey,2020,Region,Red river delta ,1,,0.001,0.3,32.8
+VNM,Vietnam,Southeast Asia,Asia,Viet Nam Household Living Standards Survey,2020,Region,Northern midland and mountain area,1,,0.027,7.4,36
+VNM,Vietnam,Southeast Asia,Asia,Viet Nam Household Living Standards Survey,2020,Region,North Central and Central Coastal,1,,0.011,3.3,34
+VNM,Vietnam,Southeast Asia,Asia,Viet Nam Household Living Standards Survey,2020,Region,Central Highland,1,,0.031,8.9,34.7
+VNM,Vietnam,Southeast Asia,Asia,Viet Nam Household Living Standards Survey,2020,Region,South East,1,,0.02,6.2,32.7
+VNM,Vietnam,Southeast Asia,Asia,Viet Nam Household Living Standards Survey,2020,Region,ĐBSCL,1,,0.027,8.1,33.8
+COL,Colombia,,South America,National Quality of Life Survey (ECV) 2021 and 2022,2021,Region,Caribbean,1,,0.112292,26.8,41.9
+COL,Colombia,,South America,National Quality of Life Survey (ECV) 2021 and 2023,2021,Region,Oriental,1,,0.055074,13.7,40.2
+COL,Colombia,,South America,National Quality of Life Survey (ECV) 2021 and 2024,2021,Region,Central,1,,0.058065,14.7,39.5
+COL,Colombia,,South America,National Quality of Life Survey (ECV) 2021 and 2025,2021,Region,Pacifica (without Valle del Cauca),1,,0.094432,22.7,41.6
+COL,Colombia,,South America,National Quality of Life Survey (ECV) 2021 and 2026,2021,Region,Bogota,1,,0.022458,5.7,39.4
+COL,Colombia,,South America,National Quality of Life Survey (ECV) 2021 and 2027,2021,Region,Antioch,1,,0.056485,14.3,39.5
+COL,Colombia,,South America,National Quality of Life Survey (ECV) 2021 and 2028,2021,Region,Cauca's Valley,1,,0.034228,8.6,39.8
+COL,Colombia,,South America,National Quality of Life Survey (ECV) 2021 and 2029,2022,Region,Caribbean,1,,0.088382,21.4,41.3
+COL,Colombia,,South America,National Quality of Life Survey (ECV) 2021 and 2030,2022,Region,Oriental,1,,0.042158,10.7,39.4
+COL,Colombia,,South America,National Quality of Life Survey (ECV) 2021 and 2031,2022,Region,Central,1,,0.045864,11.7,39.2
+COL,Colombia,,South America,National Quality of Life Survey (ECV) 2021 and 2032,2022,Region,Pacifica (without Valle del Cauca),1,,0.08487,20.7,41
+COL,Colombia,,South America,National Quality of Life Survey (ECV) 2021 and 2033,2022,Region,Bogota,1,,0.014706,3.8,38.7
+COL,Colombia,,South America,National Quality of Life Survey (ECV) 2021 and 2034,2022,Region,Antioch,1,,0.041944,10.7,39.2
+COL,Colombia,,South America,National Quality of Life Survey (ECV) 2021 and 2035,2022,Region,Cauca's Valley,1,,0.038024,9.7,39.2
+GTM,Guatemala,,Central America,Encovi ,2014,Region,Metropolitan ,1,,0.139,30.7,45.2
+GTM,Guatemala,,Central America,Encovi ,2014,Region,Central ,1,,0.234,52.8,44.4
+GTM,Guatemala,,Central America,Encovi ,2014,Region,Southwestern ,1,,0.302,66.3,45.5
+GTM,Guatemala,,Central America,Encovi ,2014,Region,Northeast ,1,,0.336,65.9,51
+GTM,Guatemala,,Central America,Encovi ,2014,Region,Southeast ,1,,0.352,71.7,49
+GTM,Guatemala,,Central America,Encovi ,2014,Region,Northwest ,1,,0.359,74.5,48.2
+GTM,Guatemala,,Central America,Encovi ,2014,Region,Petén ,1,,0.411,81.9,50.2
+GTM,Guatemala,,Central America,Encovi ,2014,Region,Norte ,1,,0.508,87.3,58.2
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,Province,Central,1,,0.189,51.9,36.4
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,Province,Eastern,1,,0.253,67,37.7
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,Province,North Central,1,,0.227,60.7,37.5
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,Province,North Western,1,,0.205,54.8,37.5
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,Province,Northern,1,,0.241,64.9,37.2
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,Province,Sabaragamuwa,1,,0.211,56.2,37.6
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,Province,Southern,1,,0.185,51.2,36.2
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,Province,Uva,1,,0.206,56.5,36.4
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,Province,Western,1,,0.191,51.6,37
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Ampara,2,,0.263,70.1,37.6
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Anuradhapura,2,,0.226,60.1,37.6
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Badulla,2,,0.205,55.9,36.7
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Batticaloa,2,,0.279,71.1,39.2
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Colombo,2,,0.189,49.7,38
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Galle,2,,0.162,46.3,34.9
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Gampaha,2,,0.205,56.1,36.6
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Hambantota,2,,0.212,57.5,36.9
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Jaffna,2,,0.209,58.2,36
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Kalutara,2,,0.171,47,36.4
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Kandy,2,,0.176,48.1,36.6
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Kegalle,2,,0.178,48.8,36.4
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Kurunegala,2,,0.167,46.9,35.6
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Kilinochchi,2,,0.27,70.8,38.2
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Matale,2,,0.142,41.5,34.3
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Matara,2,,0.189,51.4,36.8
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Monaragala,2,,0.207,57.4,36
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Mannar,2,,0.221,61,36.3
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Mullaitivu,2,,0.279,72.4,38.6
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Nuwara Eliya,2,,0.246,66.7,36.9
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Polonnaruwa,2,,0.23,61.9,37.2
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Puttalam,2,,0.288,71.8,40.1
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Ratnapura,2,,0.237,61.8,38.4
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Trincomalee,2,,0.198,55.9,35.4
+LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Vavuniya,2,,0.248,66.9,37.1
