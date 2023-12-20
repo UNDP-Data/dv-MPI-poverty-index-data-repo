@@ -486,37 +486,28 @@ GTM,Guatemala,,Central America,Encovi ,2014,Region,Southeast ,1,,0.352,71.7,49
 GTM,Guatemala,,Central America,Encovi ,2014,Region,Northwest ,1,,0.359,74.5,48.2
 GTM,Guatemala,,Central America,Encovi ,2014,Region,Petén ,1,,0.411,81.9,50.2
 GTM,Guatemala,,Central America,Encovi ,2014,Region,Norte ,1,,0.508,87.3,58.2
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,Province,Central,1,,0.189,51.9,36.4
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,Province,Eastern,1,,0.253,67,37.7
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,Province,North Central,1,,0.227,60.7,37.5
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,Province,North Western,1,,0.205,54.8,37.5
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,Province,Northern,1,,0.241,64.9,37.2
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,Province,Sabaragamuwa,1,,0.211,56.2,37.6
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,Province,Southern,1,,0.185,51.2,36.2
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,Province,Uva,1,,0.206,56.5,36.4
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,Province,Western,1,,0.191,51.6,37
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Ampara,2,,0.263,70.1,37.6
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Anuradhapura,2,,0.226,60.1,37.6
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Badulla,2,,0.205,55.9,36.7
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Batticaloa,2,,0.279,71.1,39.2
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Colombo,2,,0.189,49.7,38
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Galle,2,,0.162,46.3,34.9
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Gampaha,2,,0.205,56.1,36.6
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Hambantota,2,,0.212,57.5,36.9
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Jaffna,2,,0.209,58.2,36
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Kalutara,2,,0.171,47,36.4
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Kandy,2,,0.176,48.1,36.6
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Kegalle,2,,0.178,48.8,36.4
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Kurunegala,2,,0.167,46.9,35.6
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Kilinochchi,2,,0.27,70.8,38.2
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Matale,2,,0.142,41.5,34.3
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Matara,2,,0.189,51.4,36.8
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Monaragala,2,,0.207,57.4,36
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Mannar,2,,0.221,61,36.3
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Mullaitivu,2,,0.279,72.4,38.6
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Nuwara Eliya,2,,0.246,66.7,36.9
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Polonnaruwa,2,,0.23,61.9,37.2
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Puttalam,2,,0.288,71.8,40.1
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Ratnapura,2,,0.237,61.8,38.4
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Trincomalee,2,,0.198,55.9,35.4
-LKA,Sri Lanka,,,National Citizen Survey,2022-2023,District,Vavuniya,2,,0.248,66.9,37.1
+LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Colombo,2,9.8,0.014,3.5,39.9
+LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Gampaha,2,7.9,0.019,5.1,37.9
+LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Jaffna,2,6.1,0.039,10,39.6
+LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Galle,2,6,0.041,10,40.7
+LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Puttalam,2,3,0.044,10,43.9
+LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Kalutara,2,3.9,0.046,11.5,40.4
+LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Kurunegala,2,5.7,0.048,11.8,40.8
+LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Mullaitivu,2,5.4,0.054,13.8,38.8
+LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Ampara,2,3.5,0.058,13.9,41.9
+LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Trincomalee,2,3.7,0.059,14.6,40.5
+LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Kilinochchi,2,1.6,0.06,15.2,39.1
+LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Anuradhapura,2,1.9,0.071,18,39.5
+LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Matara,2,1.3,0.074,17.4,42.8
+LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Kegalle,2,2,0.075,18.2,41.6
+LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Matale,2,3.2,0.081,20.4,39.7
+LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Hambantota,2,3.7,0.081,20.4,40
+LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Batticaloa,2,2.8,0.085,20.2,42.1
+LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Polonnaruwa,2,6.1,0.085,20.2,42.1
+LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Kandy,2,3,0.096,21.9,43.7
+LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Vavuniya,2,3.2,0.11,26.3,41.7
+LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Mannar,2,2.7,0.112,27,41.4
+LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Ratnapura,2,3.5,0.116,28,41.3
+LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Monaragala,2,2.9,0.141,32.7,43.2
+LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Badulla,2,4.2,0.153,36.6,41.8
+LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Nuwara Eliya,2,3.1,0.193,44.2,43.8
