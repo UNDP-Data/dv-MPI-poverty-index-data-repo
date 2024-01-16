@@ -980,6 +980,34 @@
     }
   },
   {
+    "Alpha-3 code": "NAM",
+    "Country or Area": "Namibia",
+    "Alpha-2 code": "",
+    "Numeric code": 516,
+    "Latitude (average)": -22.0,
+    "Longitude (average)": 17.0,
+    "Group 1": "Africa",
+    "Group 2": "Sub-Saharan Africa",
+    "Group 3": "Southern Africa",
+    "LDC": false,
+    "LLDC": false,
+    "SIDS": false,
+    "Development classification": "",
+    "Income group_x": "Upper middle income",
+    "UNDP_Region": "UNDP_SSA",
+    "WB_Region": "Sub-Saharan Africa",
+    "boundingBox": {
+      "sw": {
+        "lat": -28.96945,
+        "lon": 11.5280384
+      },
+      "ne": {
+        "lat": -16.9634855,
+        "lon": 25.2617671
+      }
+    }
+  },
+  {
     "Alpha-3 code": "ZAF",
     "Country or Area": "South Africa",
     "Alpha-2 code": "ZA",
