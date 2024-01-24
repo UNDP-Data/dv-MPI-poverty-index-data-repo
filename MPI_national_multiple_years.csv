@@ -34,8 +34,8 @@ GTM,Guatemala,2014,0.299,61.6,48.7,0,1,,Guatemala,Índice de pobreza multidimens
 HND,Honduras,2016,0.264,64.3,41.1,,0,,,Evolución índice de pobreza multidimensional Honduras 2012 - 2016,https://www.mppn.org/wp-content/uploads/2019/10/IPM_SINTESIS_SERIE_12_16_Final.pdf,,,
 HND,Honduras,2017,0.275,67.3,40.9,,0,,,,,,,
 HND,Honduras,2018,0.281,66.9,42,,0,,,Evolución del contexto social y económico 2000-2020,https://www.undp.org/sites/g/files/zskgke326/files/2022-06/pnud-hn-coleccion-desarrollo-humano-bloque-contexto-2-2022.pdf,,,
-IND,India,2015-2016,0.118,25.01,47.13,1,1,,India,"India, National Multidimensional Poverty Index Baseline Report",https://ophi.org.uk/wp-content/uploads/India_MPI_2021_REPORT.pdf,Figure1: Indicators in India's National MPI,15,
-IND,India,2019-2021,0.066,14.96,44.39,1,0,,,"India, National Multidimensional Poverty Index- A progress review 2023",https://ophi.org.uk/wp-content/uploads/India_National_MPI_2023.pdf,,,
+IND,India,2015-2016,0.117,24.85,47.13,1,1,,"India_old, India_1","India, National Multidimensional Poverty Index Baseline Report",https://ophi.org.uk/wp-content/uploads/India_MPI_2021_REPORT.pdf,Figure1: Indicators in India's National MPI,15,
+IND,India,2019-2021,0.066,14.96,44.39,1,0,,India,"India, National Multidimensional Poverty Index- A progress review 2023",https://ophi.org.uk/wp-content/uploads/India_National_MPI_2023.pdf,,,
 KGZ,Kyrgyzstan,2016,0.282,50.3,56.2,0,1,,,,,,,
 KGZ,Kyrgyzstan,2018,0.245,45.8,53.3,,0,,,,,,,
 KGZ,Kyrgyzstan,2019,0.221,42.3,52.3,,0,,,,,,,
@@ -68,3 +68,7 @@ UGA,Uganda,2019-2020,0.23,42.1,54.5,1,1,,"Uganda, Uganda_1, Uganda_2",Multidimen
 VNM,Vietnam,2020,0.016,4.8,34.1,0,1,,Vietnam,Multidimensional Poverty in Viet Nam,https://www.undp.org/sites/g/files/zskgke326/files/migration/vn/MDP-full-E.pdf,,,"https://www.dane.gov.co/files/investigaciones/condiciones_vida/pobreza/2022/bol-pobreza-multidimensional-2022.pdf, https://www.dane.gov.co/index.php/estadisticas-por-tema/pobreza-y-condiciones-de-vida/pobreza-multidimensional/pobreza-multidimensional-2021"
 VNM,Vietnam,2016,0.035,9.9,35.3,,1,,,,,,,
 VNM,Vietnam,2019,0.019,5.3,35.5,,1,,,,,,,
+MEX,Mexico,2016,,43.6,,,,,,Multidimensional poverty in Mexico in the context of the COVID-19 health emergency ,https://www.mppn.org/multidimensional-poverty-in-mexico-in-the-context-of-the-covid-19-health-emergency/,,,
+MEX,Mexico,2018,,41.9,,,,,,Multidimensional poverty in Mexico in the context of the COVID-19 health emergency ,https://www.mppn.org/multidimensional-poverty-in-mexico-in-the-context-of-the-covid-19-health-emergency/,,,
+MEX,Mexico,2020,,43.9,,,,,,World Bank MPO Mexico,https://thedocs.worldbank.org/en/doc/e408a7e21ba62d843bdd90dc37e61b57-0500032021/related/mpo-mex.pdf,,,
+MEX,Mexico,2022,,36.3,,,,,Mexico,World Bank MPO Mexico,https://thedocs.worldbank.org/en/doc/e408a7e21ba62d843bdd90dc37e61b57-0500032021/related/mpo-mex.pdf,,,
