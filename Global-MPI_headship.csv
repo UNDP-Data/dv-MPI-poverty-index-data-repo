@@ -1,0 +1,219 @@
+country code,Country,World region,Survey,Year,Headship,Multidimensional Poverty Index,Headcount ratio: Population in multidimensional poverty,Intensity of deprivation among the poor,,In severe poverty,Year of the survey,Population 2020,Population 2021,Population share by headship,Population size by headship,Number of MPI poor by headship
+AFG,Afghanistan,South Asia,DHS,2015-2016,female-headed,0.203,42.93,47.24,16.34,17.66,34636,38972,40099,1.36,543,233
+AFG,Afghanistan,South Asia,DHS,2015-2016,male-headed,0.273,56.09,48.61,18.16,24.96,34636,38972,40099,98.64,39556,22186
+ALB,Albania,Europe and Central Asia,DHS,2017-2018,female-headed,0.005,1.42,37.15,5.83,0.08,2877,2867,2855,12.52,357,5
+ALB,Albania,Europe and Central Asia,DHS,2017-2018,male-headed,0.002,0.59,39.48,4.93,0.06,2877,2867,2855,87.48,2497,15
+DZA,Algeria,Arab States,MICS,2018-2019,female-headed,0.003,0.77,35.62,4.03,0.05,42705,43452,44178,8.15,3600,28
+DZA,Algeria,Arab States,MICS,2018-2019,male-headed,0.006,1.43,39.34,3.57,0.22,42705,43452,44178,91.85,40578,582
+AGO,Angola,Sub-Saharan Africa,DHS,2015-2016,female-headed,0.303,53.91,56.19,13.43,36.25,29155,33428,34504,29.44,10157,5475
+AGO,Angola,Sub-Saharan Africa,DHS,2015-2016,male-headed,0.274,49.94,54.85,16.43,30.88,29155,33428,34504,70.56,24347,12160
+ARG,Argentina,Latin America and the Caribbean,MICS,2019-2020,female-headed,0.002,0.59,33.57,1.78,0,45036,45036,45277,49.2,22275,132
+ARG,Argentina,Latin America and the Caribbean,MICS,2019-2020,male-headed,0.001,0.28,34.85,1.52,0.01,45036,45036,45277,50.8,23002,64
+ARM,Armenia,Europe and Central Asia,DHS,2015-2016,female-headed,0.001,0.27,36.03,2.5,0,2866,2806,2791,26.28,734,2
+ARM,Armenia,Europe and Central Asia,DHS,2015-2016,male-headed,0.001,0.16,36.33,2.88,0,2866,2806,2791,73.72,2057,3
+BGD,Bangladesh,South Asia,MICS,2019,female-headed,0.106,25.24,42.11,17.63,5.76,165516,167421,169356,9.37,15867,4005
+BGD,Bangladesh,South Asia,MICS,2019,male-headed,0.104,24.58,42.24,18.27,6.55,165516,167421,169356,90.63,153489,37726
+BRB,Barbados,Latin America and the Caribbean,MICS,2012,female-headed,0.01,3.01,33.47,0.5,0,276,281,281,50.1,141,4
+BRB,Barbados,Latin America and the Caribbean,MICS,2012,male-headed,0.007,1.97,35.41,0.48,0,276,281,281,49.9,140,3
+BLZ,Belize,Latin America and the Caribbean,MICS,2015-2016,female-headed,0.008,2.11,38.28,7.92,0.19,367,395,400,31.57,126,3
+BLZ,Belize,Latin America and the Caribbean,MICS,2015-2016,male-headed,0.021,5.32,40.03,8.57,0.83,367,395,400,68.43,274,15
+BEN,Benin,Sub-Saharan Africa,DHS,2017-2018,female-headed,0.33,63.3,52.17,17.3,34.78,11941,12643,12997,18.99,2468,1562
+BEN,Benin,Sub-Saharan Africa,DHS,2017-2018,male-headed,0.376,67.62,55.67,14.07,42.38,11941,12643,12997,81.01,10529,7120
+BOL,Bolivia,Latin America and the Caribbean,EDSA,2016,female-headed,0.037,8.67,42.41,11.49,1.78,11263,11936,12079,23.28,2812,244
+BOL,Bolivia,Latin America and the Caribbean,EDSA,2016,male-headed,0.038,9.17,41.46,12.33,1.96,11263,11936,12079,76.72,9268,850
+BIH,Bosnia and Herzegovina,Europe and Central Asia,MICS,2011-2012,female-headed,0.01,2.68,36.9,9.81,0.12,3674,3318,3271,12.69,415,11
+BIH,Bosnia and Herzegovina,Europe and Central Asia,MICS,2011-2012,male-headed,0.008,2.12,38.12,3.24,0.05,3674,3318,3271,87.31,2856,61
+BWA,Botswana,Sub-Saharan Africa,BMTHS,2015-2016,female-headed,0.082,19.58,41.7,22.11,3.73,2352,2546,2588,51.54,1334,261
+BWA,Botswana,Sub-Saharan Africa,BMTHS,2015-2016,male-headed,0.063,14.71,42.86,17.09,3.26,2352,2546,2588,48.46,1254,185
+BRA,Brazil,Latin America and the Caribbean,PNAD,2015,female-headed,0.014,3.25,43.38,5.57,0.92,205188,213196,214326,37.51,80388,2612
+BRA,Brazil,Latin America and the Caribbean,PNAD,2015,male-headed,0.018,4.2,42.16,6.6,0.95,205188,213196,214326,62.49,133938,5623
+BDI,Burundi,Sub-Saharan Africa,DHS,2016-2017,female-headed,0.404,75,53.87,16.64,45.03,11156,12220,12551,23.33,2929,2197
+BDI,Burundi,Sub-Saharan Africa,DHS,2016-2017,male-headed,0.41,75.12,54.62,15.49,46.39,11156,12220,12551,76.67,9622,7229
+KHM,Cambodia,East Asia and the Pacific,DHS,2021-2022,female-headed,0.079,18.9,42.04,21.57,4.52,16768,16397,16589,28.72,4764,900
+KHM,Cambodia,East Asia and the Pacific,DHS,2021-2022,male-headed,0.067,15.74,42.39,20.1,3.92,16768,16397,16589,71.28,11825,1861
+CMR,Cameroon,Sub-Saharan Africa,DHS,2018,female-headed,0.182,36.53,49.71,17.55,18.14,25077,26491,27199,20.01,5443,1988
+CMR,Cameroon,Sub-Saharan Africa,DHS,2018,male-headed,0.245,45.36,53.95,17.6,26.17,25077,26491,27199,79.99,21756,9868
+CAF,Central African Republic,Sub-Saharan Africa,MICS,2018-2019,female-headed,0.451,80.15,56.32,12.47,55.36,5209,5343,5457,22.8,1244,997
+CAF,Central African Republic,Sub-Saharan Africa,MICS,2018-2019,male-headed,0.464,80.49,57.68,13.03,55.95,5209,5343,5457,77.2,4213,3391
+TCD,Chad,Sub-Saharan Africa,MICS,2019,female-headed,0.532,86.12,61.79,8.64,68.73,16127,16645,17180,17.34,2978,2565
+TCD,Chad,Sub-Saharan Africa,MICS,2019,male-headed,0.514,83.77,61.34,11.09,63.75,16127,16645,17180,82.66,14202,11896
+COL,Colombia,Latin America and the Caribbean,DHS,2015-2016,female-headed,0.015,3.62,40.16,5,0.61,47626,50931,51517,33.86,17445,631
+COL,Colombia,Latin America and the Caribbean,DHS,2015-2016,male-headed,0.022,5.48,40.7,6.86,0.94,47626,50931,51517,66.14,34072,1866
+COM,Comoros,Sub-Saharan Africa,DHS,2012,female-headed,0.167,34.1,48.84,23.34,15.06,685,806,822,37.64,309,105
+COM,Comoros,Sub-Saharan Africa,DHS,2012,male-headed,0.19,39.22,48.34,21.63,16.72,685,806,822,62.36,512,201
+COG,Congo,Sub-Saharan Africa,MICS,2014-2015,female-headed,0.14,30.23,46.14,20.54,13.28,5064,5702,5836,21.19,1237,374
+COG,Congo,Sub-Saharan Africa,MICS,2014-2015,male-headed,0.104,22.66,45.98,21.51,8.33,5064,5702,5836,78.81,4599,1042
+COD,"Congo, Democratic Republic of the",Sub-Saharan Africa,MICS,2017-2018,female-headed,0.362,68.21,53.07,14.22,42.33,87087,92853,95894,24.79,23768,16212
+COD,"Congo, Democratic Republic of the",Sub-Saharan Africa,MICS,2017-2018,male-headed,0.321,63.3,50.72,18.48,34.95,87087,92853,95894,75.21,72126,45657
+CRI,Costa Rica,Latin America and the Caribbean,MICS,2018,female-headed,0.002,0.5,36.43,2.51,0,5041,5123,5154,37.49,1932,10
+CRI,Costa Rica,Latin America and the Caribbean,MICS,2018,male-headed,0.002,0.57,37.48,2.35,0.02,5041,5123,5154,62.51,3221,18
+CIV,Côte d'Ivoire,Sub-Saharan Africa,MICS,2016,female-headed,0.204,42.14,48.31,17.5,18.7,24214,26812,27478,15.77,4333,1826
+CIV,Côte d'Ivoire,Sub-Saharan Africa,MICS,2016,male-headed,0.242,46.8,51.69,17.59,25.55,24214,26812,27478,84.23,23145,10833
+CUB,Cuba,Latin America and the Caribbean,MICS,2019,female-headed,0.002,0.46,36.89,2.49,0.03,11317,11301,11256,47.44,5340,25
+CUB,Cuba,Latin America and the Caribbean,MICS,2019,male-headed,0.004,0.93,38.58,2.8,0.15,11317,11301,11256,52.56,5916,55
+DOM,Dominican Republic,Latin America and the Caribbean,MICS,2019,female-headed,0.007,1.72,37.92,3.75,0.13,10882,11000,11118,45.74,5085,87
+DOM,Dominican Republic,Latin America and the Caribbean,MICS,2019,male-headed,0.011,2.73,39.21,5.67,0.34,10882,11000,11118,54.26,6033,165
+ECU,Ecuador,Latin America and the Caribbean,ENSANUT,2018,female-headed,0.008,2.12,36.76,6.06,0.13,17016,17589,17798,22.78,4054,86
+ECU,Ecuador,Latin America and the Caribbean,ENSANUT,2018,male-headed,0.008,2.08,38.31,5.89,0.15,17016,17589,17798,77.22,13744,286
+EGY,Egypt,Arab States,DHS,2014,female-headed,0.016,4.02,38.91,6.28,0.6,95592,107465,109262,8.23,8996,362
+EGY,Egypt,Arab States,DHS,2014,male-headed,0.02,5.35,37.48,6.07,0.58,95592,107465,109262,91.77,100266,5362
+SLV,El Salvador,Latin America and the Caribbean,MICS,2014,female-headed,0.031,7.61,41.31,9.02,1.61,6210,6293,6314,32.4,2046,156
+SLV,El Salvador,Latin America and the Caribbean,MICS,2014,male-headed,0.033,7.98,41.29,10.31,1.69,6210,6293,6314,67.6,4268,341
+SWZ,eSwatini,Sub-Saharan Africa,MICS,2014,female-headed,0.092,21.67,42.58,22.34,5.29,1126,1181,1192,48.64,580,126
+SWZ,eSwatini,Sub-Saharan Africa,MICS,2014,male-headed,0.071,16.89,41.96,19.44,3.47,1126,1181,1192,51.36,612,103
+ETH,Ethiopia,Sub-Saharan Africa,DHS,2019,female-headed,0.34,65.57,51.86,18.42,37.87,114121,117191,120283,17.71,21307,13971
+ETH,Ethiopia,Sub-Saharan Africa,DHS,2019,male-headed,0.372,69.42,53.63,18.34,42.72,114121,117191,120283,82.29,98977,68714
+FJI,Fiji,East Asia and the Pacific,MICS,2021,female-headed,0.002,0.65,33.93,7.08,0,925,920,925,17.58,163,1
+FJI,Fiji,East Asia and the Pacific,MICS,2021,male-headed,0.007,1.7,38.43,7.45,0.26,925,920,925,82.42,762,13
+GAB,Gabon,Sub-Saharan Africa,DHS,2012,female-headed,0.08,17.76,44.95,18.85,5.85,1837,2293,2341,30.83,722,128
+GAB,Gabon,Sub-Saharan Africa,DHS,2012,male-headed,0.065,14.64,44.53,18.19,4.77,1837,2293,2341,69.17,1619,237
+GMB,Gambia,Sub-Saharan Africa,DHS,2019-2020,female-headed,0.124,26.59,46.71,30.59,9.97,2574,2574,2640,19.25,508,135
+GMB,Gambia,Sub-Saharan Africa,DHS,2019-2020,male-headed,0.216,45.31,47.58,27.42,19.03,2574,2574,2640,80.75,2132,966
+GEO,Georgia,Europe and Central Asia,MICS,2018,female-headed,0.001,0.24,34.05,1.63,0,3772,3766,3758,26.24,986,2
+GEO,Georgia,Europe and Central Asia,MICS,2018,male-headed,0.001,0.38,37.16,2.25,0.02,3772,3766,3758,73.76,2772,10
+GHA,Ghana,Sub-Saharan Africa,MICS,2017-2018,female-headed,0.098,23,42.72,20.19,5.36,30871,32180,32833,29.26,9607,2209
+GHA,Ghana,Sub-Saharan Africa,MICS,2017-2018,male-headed,0.117,25.32,46.05,20.06,9.65,30871,32180,32833,70.74,23226,5880
+GTM,Guatemala,Latin America and the Caribbean,DHS,2014-2015,female-headed,0.119,25.81,46.21,19.63,9.68,16001,17363,17608,21.42,3772,974
+GTM,Guatemala,Latin America and the Caribbean,DHS,2014-2015,male-headed,0.137,29.72,46.23,21.48,11.64,16001,17363,17608,78.58,13836,4112
+GIN,Guinea,Sub-Saharan Africa,DHS,2018,female-headed,0.31,59.32,52.32,17.99,33.2,12555,13205,13532,16.15,2185,1296
+GIN,Guinea,Sub-Saharan Africa,DHS,2018,male-headed,0.385,67.54,57.05,16.1,45.5,12555,13205,13532,83.85,11346,7663
+GNB,Guinea-Bissau,Sub-Saharan Africa,MICS,2018-2019,female-headed,0.23,47.64,48.21,27.28,19.4,1970,2016,2061,19.46,401,191
+GNB,Guinea-Bissau,Sub-Saharan Africa,MICS,2018-2019,male-headed,0.368,68.44,53.7,18.19,39.86,1970,2016,2061,80.54,1660,1136
+GUY,Guyana,Latin America and the Caribbean,MICS,2019-2020,female-headed,0.004,0.97,39.65,6.78,0.17,797,797,805,38.52,310,3
+GUY,Guyana,Latin America and the Caribbean,MICS,2019-2020,male-headed,0.009,2.36,39.19,6.32,0.26,797,797,805,61.48,495,12
+HTI,Haiti,Latin America and the Caribbean,DHS,2016-2017,female-headed,0.189,39.65,47.61,22.1,16.72,10864,11307,11448,44.56,5101,2023
+HTI,Haiti,Latin America and the Caribbean,DHS,2016-2017,male-headed,0.208,42.57,48.92,21.65,19.98,10864,11307,11448,55.44,6346,2702
+HND,Honduras,Latin America and the Caribbean,MICS,2019,female-headed,0.041,9.85,41.45,13.28,2.17,9959,10122,10278,31.13,3200,315
+HND,Honduras,Latin America and the Caribbean,MICS,2019,male-headed,0.056,12.94,43.15,15.47,3.41,9959,10122,10278,68.87,7079,916
+IND,India,South Asia,DHS,2019-2021,female-headed,0.084,19.65,42.91,19.02,5.64,1407564,1396387,1407564,14.11,198540,39014
+IND,India,South Asia,DHS,2019-2021,male-headed,0.066,15.86,41.79,18.63,4.02,1407564,1396387,1407564,85.89,1209024,191715
+IDN,Indonesia,East Asia and the Pacific,DHS,2017,female-headed,0.023,6.13,37.78,7.8,0.48,264499,271858,273753,10.88,29790,1825
+IDN,Indonesia,East Asia and the Pacific,DHS,2017,male-headed,0.013,3.31,38.93,4.37,0.44,264499,271858,273753,89.12,243963,8082
+IRQ,Iraq,Arab States,MICS,2018,female-headed,0.032,8.8,35.84,3.47,0.78,40591,42557,43534,7.2,3135,276
+IRQ,Iraq,Arab States,MICS,2018,male-headed,0.033,8.62,38.02,5.38,1.35,40591,42557,43534,92.8,40399,3483
+JAM,Jamaica,Latin America and the Caribbean,JSLC,2018,female-headed,0.012,2.98,39.71,5.61,0.37,2812,2820,2828,48.64,1375,41
+JAM,Jamaica,Latin America and the Caribbean,JSLC,2018,male-headed,0.01,2.58,38.1,4.43,0.1,2812,2820,2828,51.36,1452,37
+JOR,Jordan,Arab States,DHS,2017-2018,female-headed,0.004,1.05,34.02,1.62,0,10460,10929,11148,8.45,942,10
+JOR,Jordan,Arab States,DHS,2017-2018,male-headed,0.001,0.37,35.74,0.61,0,10460,10929,11148,91.55,10206,38
+KAZ,Kazakhstan,Europe and Central Asia,MICS,2015,female-headed,0.001,0.42,33.67,1.31,0,17836,18979,19196,29.2,5606,23
+KAZ,Kazakhstan,Europe and Central Asia,MICS,2015,male-headed,0.002,0.47,36.25,2,0,17836,18979,19196,70.8,13591,64
+KEN,Kenya,Sub-Saharan Africa,DHS,2014,female-headed,0.204,43.92,46.38,34.82,16.9,45832,51986,53006,30.47,16150,7093
+KEN,Kenya,Sub-Saharan Africa,DHS,2014,male-headed,0.156,34.65,45.11,36.21,10.48,45832,51986,53006,69.53,36855,12771
+KIR,Kiribati,East Asia and the Pacific,MICS,2018-2019,female-headed,0.061,15.28,39.62,25.09,2.35,124,126,129,25.7,33,5
+KIR,Kiribati,East Asia and the Pacific,MICS,2018-2019,male-headed,0.087,21.37,40.69,31.99,3.94,124,126,129,74.3,96,20
+KGZ,Kyrgyzstan,Europe and Central Asia,MICS,2018,female-headed,0,0.12,38.89,4.94,0,6223,6425,6528,22.27,1454,2
+KGZ,Kyrgyzstan,Europe and Central Asia,MICS,2018,male-headed,0.002,0.47,36.09,5.32,0,6223,6425,6528,77.73,5074,24
+LAO,Lao PDR,East Asia and the Pacific,MICS,2017,female-headed,0.075,16.93,44.4,21.99,5.59,6998,7319,7425,11.01,817,138
+LAO,Lao PDR,East Asia and the Pacific,MICS,2017,male-headed,0.112,23.83,47.18,21.08,10.05,6998,7319,7425,88.99,6608,1575
+LSO,Lesotho,Sub-Saharan Africa,MICS,2018,female-headed,0.083,19.58,42.47,31.2,4.5,2198,2254,2281,39.62,904,177
+LSO,Lesotho,Sub-Saharan Africa,MICS,2018,male-headed,0.085,19.62,43.4,26.89,5.32,2198,2254,2281,60.38,1378,270
+LBR,Liberia,Sub-Saharan Africa,DHS,2019-2020,female-headed,0.29,58.22,49.79,22.2,27.43,5088,5088,5193,33.96,1764,1027
+LBR,Liberia,Sub-Saharan Africa,DHS,2019-2020,male-headed,0.244,49.29,49.41,23.89,23.54,5088,5088,5193,66.04,3430,1690
+LBY,Libya,Arab States,PAPFAM,2014,female-headed,0.003,0.83,36.99,6.95,0,6098,6654,6735,9.76,658,5
+LBY,Libya,Arab States,PAPFAM,2014,male-headed,0.008,2.12,37.14,11.84,0.1,6098,6654,6735,90.24,6078,129
+MDG,Madagascar,Sub-Saharan Africa,DHS,2021,female-headed,0.379,67.75,55.96,15.75,46.23,28916,28225,28916,19.51,5643,3823
+MDG,Madagascar,Sub-Saharan Africa,DHS,2021,male-headed,0.388,68.58,56.51,15.28,45.68,28916,28225,28916,80.49,23273,15961
+MWI,Malawi,Sub-Saharan Africa,MICS,2019-2020,female-headed,0.285,59.4,48.04,25.97,23.63,19377,19377,19890,29.26,5820,3457
+MWI,Malawi,Sub-Saharan Africa,MICS,2019-2020,male-headed,0.209,45.95,45.41,28.18,14.98,19377,19377,19890,70.74,14070,6465
+MDV,Maldives,South Asia,DHS,2016-2017,female-headed,0.003,0.94,34.42,5.4,0,472,514,521,44.13,230,2
+MDV,Maldives,South Asia,DHS,2016-2017,male-headed,0.002,0.64,34.34,4.39,0,472,514,521,55.87,291,2
+MLI,Mali,Sub-Saharan Africa,DHS,2018,female-headed,0.379,69.69,54.33,15.01,42.57,19934,21224,21905,13.59,2978,2075
+MLI,Mali,Sub-Saharan Africa,DHS,2018,male-headed,0.376,68.12,55.15,15.3,45.04,19934,21224,21905,86.41,18927,12893
+MRT,Mauritania,Sub-Saharan Africa,DHS,2019-2021,female-headed,0.33,58.5,56.38,13.07,37.88,4615,4499,4615,35.99,1661,972
+MRT,Mauritania,Sub-Saharan Africa,DHS,2019-2021,male-headed,0.325,58.42,55.71,11.84,38.07,4615,4499,4615,64.01,2954,1726
+MEX,Mexico,Latin America and the Caribbean,ENSANUT,2021,female-headed,0.015,3.72,39.55,3.24,0.75,126705,125998,126705,29.64,37559,1396
+MEX,Mexico,Latin America and the Caribbean,ENSANUT,2021,male-headed,0.017,4.22,40.89,3.62,0.76,126705,125998,126705,70.36,89146,3759
+MDA,Moldova,Europe and Central Asia,MICS,2012,female-headed,0.008,2.02,37.97,6.18,0.16,3507,3085,3062,28.62,876,18
+MDA,Moldova,Europe and Central Asia,MICS,2012,male-headed,0.002,0.51,36.63,2.7,0.03,3507,3085,3062,71.38,2185,11
+MNG,Mongolia,East Asia and the Pacific,MICS,2018,female-headed,0.023,6.11,37.64,11.87,0.42,3164,3294,3348,17.2,576,35
+MNG,Mongolia,East Asia and the Pacific,MICS,2018,male-headed,0.029,7.5,38.94,16.26,0.85,3164,3294,3348,82.8,2772,208
+MNE,Montenegro,Europe and Central Asia,MICS,2018,female-headed,0.003,0.72,43.95,6.59,0.25,631,629,628,17.11,107,1
+MNE,Montenegro,Europe and Central Asia,MICS,2018,male-headed,0.005,1.34,39.17,2.13,0.02,631,629,628,82.89,520,7
+MAR,Morocco,Arab States,PAPFAM,2017-2018,female-headed,0.013,3.29,39.53,10.6,0.52,35928,36689,37077,11.23,4163,137
+MAR,Morocco,Arab States,PAPFAM,2017-2018,male-headed,0.028,6.74,42.14,10.92,1.54,35928,36689,37077,88.77,32913,2219
+MOZ,Mozambique,Sub-Saharan Africa,IOF,2019-2020,female-headed,0.371,62.14,59.66,13.01,43.25,31178,31178,32077,24.13,7742,4811
+MOZ,Mozambique,Sub-Saharan Africa,IOF,2019-2020,male-headed,0.372,61.87,60.1,14.21,42.95,31178,31178,32077,75.87,24335,15056
+MMR,Myanmar,East Asia and the Pacific,DHS,2015-2016,female-headed,0.165,36.41,45.32,19.79,12.56,51892,53423,53798,19.09,10271,3739
+MMR,Myanmar,East Asia and the Pacific,DHS,2015-2016,male-headed,0.178,38.77,46.02,22.43,14.15,51892,53423,53798,80.91,43528,16874
+NAM,Namibia,Sub-Saharan Africa,DHS,2013,female-headed,0.203,45.46,44.65,19.55,14.29,2205,2489,2530,47.22,1195,543
+NAM,Namibia,Sub-Saharan Africa,DHS,2013,male-headed,0.169,36.83,45.78,18.88,12.01,2205,2489,2530,52.78,1335,492
+NPL,Nepal,South Asia,MICS,2019,female-headed,0.072,16.75,42.95,15.57,4.94,28832,29349,30035,22.63,6797,1139
+NPL,Nepal,South Asia,MICS,2019,male-headed,0.075,17.72,42.38,18.51,4.84,28832,29349,30035,77.37,23238,4119
+NIC,Nicaragua,Latin America and the Caribbean,DHS,2011-2012,female-headed,0.045,10.33,44.03,10.85,3.33,6031,6756,6851,35.12,2406,249
+NIC,Nicaragua,Latin America and the Caribbean,DHS,2011-2012,male-headed,0.09,19.78,45.6,14.72,6.84,6031,6756,6851,64.88,4444,879
+NER,Niger,Sub-Saharan Africa,DHS,2012,female-headed,0.597,91.57,65.17,3.89,76.26,17954,24334,25253,13.28,3354,3071
+NER,Niger,Sub-Saharan Africa,DHS,2012,male-headed,0.602,90.88,66.24,5,76.27,17954,24334,25253,86.72,21899,19902
+NGA,Nigeria,Sub-Saharan Africa,MICS,2021,female-headed,0.079,17.68,44.77,21.6,5.82,213401,208327,213401,12.63,26957,4765
+NGA,Nigeria,Sub-Saharan Africa,MICS,2021,male-headed,0.189,35.27,53.49,15.9,19.88,213401,208327,213401,87.37,186444,65752
+MKD,North Macedonia,Europe and Central Asia,MICS,2018-2019,female-headed,0.002,0.43,36.08,3.65,0,2114,2111,2103,18.36,386,2
+MKD,North Macedonia,Europe and Central Asia,MICS,2018-2019,male-headed,0.001,0.36,38.82,1.85,0.06,2114,2111,2103,81.64,1717,6
+PAK,Pakistan,South Asia,DHS,2017-2018,female-headed,0.176,35.83,49.23,16.35,18.05,219731,227197,231402,9.79,22643,8113
+PAK,Pakistan,South Asia,DHS,2017-2018,male-headed,0.201,38.6,51.97,12.55,21.84,219731,227197,231402,90.21,208759,80589
+PSE,"Palestine, State of",Arab States,MICS,2019-2020,female-headed,0.005,1.25,37.42,2.99,0,5019,5019,5133,6.45,331,4
+PSE,"Palestine, State of",Arab States,MICS,2019-2020,male-headed,0.002,0.52,34.57,1.13,0.01,5019,5019,5133,93.55,4802,25
+PNG,Papua New Guinea,East Asia and the Pacific,DHS,2016-2018,female-headed,0.261,54.4,47.98,22.47,28.67,9329,9750,9949,15.54,1546,841
+PNG,Papua New Guinea,East Asia and the Pacific,DHS,2016-2018,male-headed,0.264,57.04,46.23,25.77,25.26,9329,9750,9949,84.46,8404,4793
+PRY,Paraguay,Latin America and the Caribbean,MICS,2016,female-headed,0.017,4.3,39.98,7.45,0.77,6267,6619,6704,38.73,2596,112
+PRY,Paraguay,Latin America and the Caribbean,MICS,2016,male-headed,0.02,4.63,42.99,7.01,1.1,6267,6619,6704,61.27,4108,190
+PER,Peru,Latin America and the Caribbean,ENDES,2021,female-headed,0.02,5.28,38.17,9.75,0.5,33715,33305,33715,28.5,9611,508
+PER,Peru,Latin America and the Caribbean,ENDES,2021,male-headed,0.028,7.17,39.13,10.69,1.1,33715,33305,33715,71.5,24105,1728
+PHL,Philippines,East Asia and the Pacific,DHS,2017,female-headed,0.021,5.15,39.88,5.94,0.85,106739,112191,113880,17.33,19734,1017
+PHL,Philippines,East Asia and the Pacific,DHS,2017,male-headed,0.025,5.93,42.2,7.54,1.36,106739,112191,113880,82.67,94146,5584
+RWA,Rwanda,Sub-Saharan Africa,DHS,2019-2020,female-headed,0.253,52.53,48.19,21.94,22.56,13146,13146,13462,26.87,3617,1900
+RWA,Rwanda,Sub-Saharan Africa,DHS,2019-2020,male-headed,0.223,47.46,46.96,22.97,18.65,13146,13146,13462,73.13,9845,4672
+LCA,Saint Lucia,Latin America and the Caribbean,MICS,2012,female-headed,0.009,2.24,38.28,1.62,0,173,179,180,43.09,77,2
+LCA,Saint Lucia,Latin America and the Caribbean,MICS,2012,male-headed,0.006,1.68,36.68,1.66,0,173,179,180,56.91,102,2
+WSM,Samoa,East Asia and the Pacific,MICS,2019-2020,female-headed,0.033,8.34,39.44,12.64,0.45,215,215,219,22.09,48,4
+WSM,Samoa,East Asia and the Pacific,MICS,2019-2020,male-headed,0.022,5.71,38.99,12.92,0.5,215,215,219,77.91,170,10
+STP,Sao Tome and Principe,Sub-Saharan Africa,MICS,2019,female-headed,0.046,11.35,40.5,18.02,1.8,215,219,223,41.38,92,10
+STP,Sao Tome and Principe,Sub-Saharan Africa,MICS,2019,male-headed,0.049,11.97,41.19,16.22,2.28,215,219,223,58.62,131,16
+SEN,Senegal,Sub-Saharan Africa,DHS,2019,female-headed,0.2,40.75,49.18,17.99,17.56,16001,16436,16877,26.73,4511,1838
+SEN,Senegal,Sub-Saharan Africa,DHS,2019,male-headed,0.286,54.51,52.4,18.25,31.41,16001,16436,16877,73.27,12366,6741
+SRB,Serbia,Europe and Central Asia,MICS,2019,female-headed,0.001,0.2,37.1,2.42,0.03,7401,7358,7297,25.23,1841,4
+SRB,Serbia,Europe and Central Asia,MICS,2019,male-headed,0,0.08,38.9,1.99,0,7401,7358,7297,74.77,5456,5
+SYC,Seychelles,Sub-Saharan Africa,QLFS,2019,female-headed,0.003,0.74,34.66,0.21,0.05,104,106,106,60.76,65,0
+SYC,Seychelles,Sub-Saharan Africa,QLFS,2019,male-headed,0.004,1.07,33.76,0.71,0,104,106,106,39.24,42,0
+SLE,Sierra Leone,Sub-Saharan Africa,DHS,2019,female-headed,0.249,52.5,47.47,25.07,22,8047,8234,8421,25.87,2178,1144
+SLE,Sierra Leone,Sub-Saharan Africa,DHS,2019,male-headed,0.308,61.57,50.05,19.93,30.13,8047,8234,8421,74.13,6242,3843
+ZAF,South Africa,Sub-Saharan Africa,DHS,2016,female-headed,0.029,7.31,39.31,13.08,0.83,56422,58802,59392,51.92,30836,2253
+ZAF,South Africa,Sub-Saharan Africa,DHS,2016,male-headed,0.021,5.12,40.51,11.19,1.07,56422,58802,59392,48.08,28556,1463
+LKA,Sri Lanka,South Asia,SLDHS,2016,female-headed,0.014,3.71,37.74,14.97,0.24,21425,21715,21773,20.13,4384,163
+LKA,Sri Lanka,South Asia,SLDHS,2016,male-headed,0.01,2.72,38.48,14.16,0.27,21425,21715,21773,79.87,17390,473
+SDN,Sudan,Arab States,MICS,2014,female-headed,0.295,56.72,51.93,16,31.91,37003,44440,45657,11.23,5128,2909
+SDN,Sudan,Arab States,MICS,2014,male-headed,0.278,51.77,53.61,17.87,30.75,37003,44440,45657,88.77,40529,20982
+SUR,Suriname,Latin America and the Caribbean,MICS,2018,female-headed,0.019,4.83,39.84,4.91,0.73,594,607,613,41.53,255,12
+SUR,Suriname,Latin America and the Caribbean,MICS,2018,male-headed,0.006,1.45,38.23,3.39,0.16,594,607,613,58.47,358,5
+TJK,Tajikistan,Europe and Central Asia,DHS,2017,female-headed,0.023,6.06,38.51,16.38,0.28,8926,9543,9750,16.94,1652,100
+TJK,Tajikistan,Europe and Central Asia,DHS,2017,male-headed,0.03,7.73,39.04,20.85,0.82,8926,9543,9750,83.06,8098,626
+TZA,Tanzania,Sub-Saharan Africa,DHS,2015-2016,female-headed,0.313,62.79,49.87,20.71,33,54402,61705,63588,20.67,13141,8251
+TZA,Tanzania,Sub-Saharan Africa,DHS,2015-2016,male-headed,0.277,55.59,49.78,24.12,26.11,54402,61705,63588,79.33,50448,28043
+THA,Thailand,East Asia and the Pacific,MICS,2019,female-headed,0.003,0.72,36.99,6.16,0.04,71308,71476,71601,37.7,26993,195
+THA,Thailand,East Asia and the Pacific,MICS,2019,male-headed,0.002,0.49,36.45,6.14,0.03,71308,71476,71601,62.3,44609,218
+TLS,Timor-Leste,East Asia and the Pacific,DHS,2016,female-headed,0.216,48,44.97,26.88,15.59,1225,1300,1321,12.76,169,81
+TLS,Timor-Leste,East Asia and the Pacific,DHS,2016,male-headed,0.222,48.29,46.04,26.82,17.64,1225,1300,1321,87.24,1152,557
+TGO,Togo,Sub-Saharan Africa,MICS,2017,female-headed,0.166,36.16,45.88,23.94,13.35,7853,8443,8645,21.42,1852,670
+TGO,Togo,Sub-Saharan Africa,MICS,2017,male-headed,0.183,38.01,48.24,23.71,15.74,7853,8443,8645,78.58,6793,2582
+TON,Tonga,East Asia and the Pacific,MICS,2019,female-headed,0,0.14,33.33,7.01,0,105,105,106,20.54,22,0
+TON,Tonga,East Asia and the Pacific,MICS,2019,male-headed,0.004,1.07,38.3,6.25,0.03,105,105,106,79.46,84,1
+TTO,Trinidad and Tobago,Latin America and the Caribbean,MICS,2011,female-headed,0.003,0.75,36.24,4.17,0.02,1420,1518,1526,31.81,485,4
+TTO,Trinidad and Tobago,Latin America and the Caribbean,MICS,2011,male-headed,0.002,0.58,39.04,3.45,0.14,1420,1518,1526,68.19,1040,6
+TUN,Tunisia,Arab States,MICS,2018,female-headed,0.005,1.4,35.38,4.85,0,11933,12162,12263,10.85,1331,19
+TUN,Tunisia,Arab States,MICS,2018,male-headed,0.003,0.72,36.75,2.09,0.07,11933,12162,12263,89.15,10932,78
+TKM,Turkmenistan,Europe and Central Asia,MICS,2019,female-headed,0,0.1,33.33,0.16,0,6158,6250,6342,21.53,1365,1
+TKM,Turkmenistan,Europe and Central Asia,MICS,2019,male-headed,0.001,0.29,34.11,0.39,0,6158,6250,6342,78.47,4977,15
+TUV,Tuvalu,East Asia and the Pacific,MICS,2019-2020,female-headed,0.006,1.74,37.18,7.31,0,11,11,11,16.19,2,0
+TUV,Tuvalu,East Asia and the Pacific,MICS,2019-2020,male-headed,0.008,2.19,38.4,13.14,0,11,11,11,83.81,9,0
+UGA,Uganda,Sub-Saharan Africa,DHS,2016,female-headed,0.297,59.04,50.37,21.63,28.89,38748,44405,45854,29.4,13481,7959
+UGA,Uganda,Sub-Saharan Africa,DHS,2016,male-headed,0.274,56.39,48.63,24.43,24.34,38748,44405,45854,70.6,32373,18255
+UKR,Ukraine,Europe and Central Asia,MICS,2012,female-headed,0.001,0.35,34.13,0.71,0,45406,43910,43531,42.86,18656,66
+UKR,Ukraine,Europe and Central Asia,MICS,2012,male-headed,0.001,0.16,34.87,0.2,0,45406,43910,43531,57.14,24876,40
+UZB,Uzbekistan,Europe and Central Asia,MICS,2021-2022,female-headed,0.007,1.78,38.24,0.04,0.23,34628,33527,34081,19.9,6782,121
+UZB,Uzbekistan,Europe and Central Asia,MICS,2021-2022,male-headed,0.006,1.72,34.53,0.29,0,34628,33527,34081,80.1,27300,469
+VNM,Viet Nam,East Asia and the Pacific,MICS,2020-2021,female-headed,0.006,1.47,38.79,4.17,0.21,97468,96649,97468,25.43,24791,364
+VNM,Viet Nam,East Asia and the Pacific,MICS,2020-2021,male-headed,0.008,2.07,40.63,3.23,0.4,97468,96649,97468,74.57,72677,1506
+YEM,Yemen,Arab States,DHS,2013,female-headed,0.209,42.92,48.73,21.99,19.09,26984,32284,32982,5.53,1825,783
+YEM,Yemen,Arab States,DHS,2013,male-headed,0.247,48.79,50.68,22.3,24.66,26984,32284,32982,94.47,31157,15202
+ZMB,Zambia,Sub-Saharan Africa,DHS,2018,female-headed,0.25,50.76,49.33,23.67,24.33,17836,18928,19473,22.88,4456,2262
+ZMB,Zambia,Sub-Saharan Africa,DHS,2018,male-headed,0.226,47.06,48.05,23.93,20.05,17836,18928,19473,77.12,15017,7068
+ZWE,Zimbabwe,Sub-Saharan Africa,MICS,2019,female-headed,0.128,29.37,43.58,26.14,8.91,15355,15670,15994,35.5,5677,1667
+ZWE,Zimbabwe,Sub-Saharan Africa,MICS,2019,male-headed,0.1,23.84,41.96,26.44,5.59,15355,15670,15994,64.5,10316,2459
