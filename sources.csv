@@ -1,0 +1,11 @@
+file,source-url,source-file,year,data,notes
+Global-MPI_national.csv,"https://ophi.org.uk/multidimensional-poverty-index/data-tables-do-files/, https://hdr.undp.org/content/2023-global-multidimensional-poverty-index-mpi#/indicies/MPI","Table 1, 2023 MPI Tables 1 and 2 ",2023,Global MPI national,data on poverty WB coming from Human development reports xls
+Global-MPI_area.csv,https://ophi.org.uk/multidimensional-poverty-index/data-tables-do-files/,Table 4,2023,"Global MPI, rural and urban",
+Global-MPI_headship.csv,https://ophi.org.uk/multidimensional-poverty-index/data-tables-do-files/,Table 7,2023,"data for Global MPI, female and male headship",
+Global-MPI_national_multiple_years.csv,https://hdr.undp.org/content/2023-global-multidimensional-poverty-index-mpi#/indicies/MPI,2023 MPI Tables 1 and 2 ,2023,,
+MPI_location_multiple_years.csv,,,,"National MPI urban, rural multiple yeas",not being used at the moment as we are only displaying  these data for the latest year but it's meant to keep old data in case we can use it in the future
+MPI_national_multiple_years.csv,,"different sources, these are mentioned in the file",,,
+MPI_subnational.csv,,sources are the same as for national for each year,,,
+MPI_location_multiple_years.csv,,,,"National MPI urban, rural multiple years",using only latest year
+MPI_location_multiple_years_withMVI.csv,,,,"this file has values for MVI for one country,","this is not being used at the moment, not sure if this could be used in the future"
+MPI_national_multiple_years_withMVI.csv,,,,"this file has values for MVI for one country,","this is not being used at the moment, not sure if this could be used in the future"
