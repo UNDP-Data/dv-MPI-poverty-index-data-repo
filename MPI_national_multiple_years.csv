@@ -60,7 +60,7 @@ RWA,Rwanda,2016-2017,0.148,28.7,51.5,0,1,,Rwanda,Rwanda Multidimensional Poverty
 RWA,Rwanda,2010-2011,0.239,44.4,53.8,,1,,,,,,,
 RWA,Rwanda,2013-2014,0.17,32.9,51.7,,1,,,,,,,
 WSM,Samoa,2018,0.109,24.9,43.9,0,1,,,Samoa Multidimensional Poverty Index 2022,https://ophi.org.uk/wp-content/uploads/Samoa_MPI_Report_2022.pdf,"Table 2: Dimensions, Indicators, Deprivation Cut-offs and Weights ",6,
-SEN,Senegal,2011,0.26,60.92,42.5,1,1,,Senegal,La pauvreté multidimensionnelle au Senegal,https://www.ansd.sn/sites/default/files/2022-11/Rapport_IPM%202011_VSF.pdf,Encadré 4 : Critères de mesure des privations au sein des ménages,35,
+SEN,Senegal,2011,0.26,60.92,42.5,0,1,,Senegal,La pauvreté multidimensionnelle au Senegal,https://www.ansd.sn/sites/default/files/2022-11/Rapport_IPM%202011_VSF.pdf,Encadré 4 : Critères de mesure des privations au sein des ménages,35,
 SYC,Seychelles,2019,0.056,19.51,28.9,0,1,,,Multidimensional Poverty Index Report 2019 Seychelles,https://ophi.org.uk/wp-content/uploads/Seychelles_MPI_2019_2020.pdf,Table 1b: Dimensions and indicators of the 2019 MPI,14,
 SLE,Sierra Leone,2017,0.375,64.8,57.9,1,1,,,Sierra Leone Multidimensional Poverty Index 2019,https://ophi.org.uk/wp-content/uploads/Sierra_Leone_MPI_2019_final.pdf,"Table 1: Dimensions, indicators, deprivation cut-offs, and weights of the National MPI",5,
 LKA,Sri Lanka,2019,0.067,16,41.6,1,1,,,Multidimensional Poverty in Sri Lanka,http://www.statistics.gov.lk/Poverty/StaticalInformation/MultidimensionalPovertyinSriLanka-2019,Appendix 01: Deprivation Cut-offs for the National MPI,10,
