@@ -409,15 +409,15 @@ WSM,Samoa,East Asia and the Pacific,Oceania,HIES,2018,region,Apia Urban Area,1,,
 WSM,Samoa,East Asia and the Pacific,Oceania,HIES,2018,region,North West Upolu,1,,0.099,22.2,44.5
 WSM,Samoa,East Asia and the Pacific,Oceania,HIES,2018,region,Rest of Upolu,1,,0.151,34.3,44.1
 WSM,Samoa,East Asia and the Pacific,Oceania,HIES,2018,region,Savaii,1,,0.134,30.8,43.6
-KGZ,Kyrgyzstan,Central Asia,Asia,Kyrgyz Integrated Household Survey (KIHS),2016,,Issykul,,,0.253,45.7,55.3
-KGZ,Kyrgyzstan,Central Asia,Asia,Kyrgyz Integrated Household Survey (KIHS),2016,,Jalal-Abad,,,0.351,59.6,58.8
-KGZ,Kyrgyzstan,Central Asia,Asia,Kyrgyz Integrated Household Survey (KIHS),2016,,Naryn,,,0.331,58.3,56.8
-KGZ,Kyrgyzstan,Central Asia,Asia,Kyrgyz Integrated Household Survey (KIHS),2016,,Batken,,,0.413,64.9,63.6
-KGZ,Kyrgyzstan,Central Asia,Asia,Kyrgyz Integrated Household Survey (KIHS),2016,,Osh,,,0.324,57.5,56.3
-KGZ,Kyrgyzstan,Central Asia,Asia,Kyrgyz Integrated Household Survey (KIHS),2016,,Talas,,,0.244,49.8,48.9
-KGZ,Kyrgyzstan,Central Asia,Asia,Kyrgyz Integrated Household Survey (KIHS),2016,,Chui,,,0.253,45.4,55.8
-KGZ,Kyrgyzstan,Central Asia,Asia,Kyrgyz Integrated Household Survey (KIHS),2016,,Bishkek,,,0.122,26.7,45.5
-KGZ,Kyrgyzstan,Central Asia,Asia,Kyrgyz Integrated Household Survey (KIHS),2016,,Osh city,,,0.251,47.3,53.1
+KGZ,Kyrgyzstan,Central Asia,Asia,Kyrgyz Integrated Household Survey (KIHS),2016,,Issykul,1,,0.253,45.7,55.3
+KGZ,Kyrgyzstan,Central Asia,Asia,Kyrgyz Integrated Household Survey (KIHS),2016,,Jalal-Abad,1,,0.351,59.6,58.8
+KGZ,Kyrgyzstan,Central Asia,Asia,Kyrgyz Integrated Household Survey (KIHS),2016,,Naryn,1,,0.331,58.3,56.8
+KGZ,Kyrgyzstan,Central Asia,Asia,Kyrgyz Integrated Household Survey (KIHS),2016,,Batken,1,,0.413,64.9,63.6
+KGZ,Kyrgyzstan,Central Asia,Asia,Kyrgyz Integrated Household Survey (KIHS),2016,,Osh,1,,0.324,57.5,56.3
+KGZ,Kyrgyzstan,Central Asia,Asia,Kyrgyz Integrated Household Survey (KIHS),2016,,Talas,1,,0.244,49.8,48.9
+KGZ,Kyrgyzstan,Central Asia,Asia,Kyrgyz Integrated Household Survey (KIHS),2016,,Chui,1,,0.253,45.4,55.8
+KGZ,Kyrgyzstan,Central Asia,Asia,Kyrgyz Integrated Household Survey (KIHS),2016,,Bishkek,1,,0.122,26.7,45.5
+KGZ,Kyrgyzstan,Central Asia,Asia,Kyrgyz Integrated Household Survey (KIHS),2016,,Osh city,1,,0.251,47.3,53.1
 RWA,Rwanda,East Africa,Africa,Integrated Household Living Conditions Survey (EICV 3-5),2016-2017,,Kigali City,1,,0.068,13.3,50.8
 RWA,Rwanda,East Africa,Africa,,2016-2017,,Southern Province,1,,0.19,36,52.7
 RWA,Rwanda,East Africa,Africa,,2016-2017,,Western Province,1,,0.158,30.8,51.2
@@ -483,39 +483,39 @@ LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Ratnapura,2,3.5,0.116,28,41.3
 LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Monaragala,2,2.9,0.141,32.7,43.2
 LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Badulla,2,4.2,0.153,36.6,41.8
 LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Nuwara Eliya,2,3.1,0.193,44.2,43.8
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Andhra Pradesh,,,0.025,6.06,41.12
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Arunachal Pradesh,,,0.059,13.76,43.04
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Assam,,,0.086,19.35,44.41
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Bihar,,,0.16,33.76,47.4
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Chhattisgarh,,,0.07,16.37,42.61
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Goa,,,0.003,0.84,38.69
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Gujarat,,,0.05,11.66,43.25
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Haryana,,,0.031,7.07,43.34
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Himachal Pradesh,,,0.02,4.93,40.22
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Jharkhand,,,0.131,28.81,45.59
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Karnataka,,,0.031,7.58,41.21
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Kerala,,,0.002,0.55,36.92
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Madhya Pradesh,,,0.09,20.63,43.7
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Maharashtra,,,0.033,7.81,41.77
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Manipur,,,0.034,8.1,41.91
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Meghalaya,,,0.133,27.79,48.01
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Mizoram,,,0.024,5.3,45.62
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Nagaland,,,0.066,15.43,42.61
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Odisha,,,0.07,15.68,44.5
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Punjab,,,0.02,4.75,41.22
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Rajasthan,,,0.065,15.31,42.7
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Sikkim,,,0.011,2.6,41.02
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Tamil Nadu,,,0.009,2.2,38.7
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Telangana,,,0.024,5.88,40.85
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Tripura,,,0.056,13.11,42.68
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Uttar Pradesh,,,0.103,22.93,44.83
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Uttarakhand,,,0.041,9.67,41.99
-IND,India,South Asia,Asia,NFHS,2019-2021,State,West Bengal,,,0.05,11.89,42.35
-IND,India,South Asia,Asia,NFHS,2019-2021,Union Territory,Andaman & Nicobar Islands,,,0.009,2.3,40.62
-IND,India,South Asia,Asia,NFHS,2019-2021,Union Territory,Chandigarh,,,0.017,3.52,47.41
-IND,India,South Asia,Asia,NFHS,2019-2021,Union Territory,Dadra & Nagar Haveli & Daman & Diu,,,0.039,9.21,42.15
-IND,India,South Asia,Asia,NFHS,2019-2021,Union Territory,Delhi,,,0.014,3.43,41.99
-IND,India,South Asia,Asia,NFHS,2019-2021,Union Territory,Jammu & Kashmir,,,0.02,4.8,42.11
-IND,India,South Asia,Asia,NFHS,2019-2021,Union Territory, Ladakh,,,0.015,3.53,41.2
-IND,India,South Asia,Asia,NFHS,2019-2021,Union Territory,Lakshadweep,,,0.004,1.11,36.47
-IND,India,South Asia,Asia,NFHS,2019-2021,Union Territory,Puducherry,,,0.003,0.85,38.03
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Andhra Pradesh,2,,0.025,6.06,41.12
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Arunachal Pradesh,2,,0.059,13.76,43.04
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Assam,2,,0.086,19.35,44.41
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Bihar,2,,0.16,33.76,47.4
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Chhattisgarh,2,,0.07,16.37,42.61
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Goa,2,,0.003,0.84,38.69
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Gujarat,2,,0.05,11.66,43.25
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Haryana,2,,0.031,7.07,43.34
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Himachal Pradesh,2,,0.02,4.93,40.22
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Jharkhand,2,,0.131,28.81,45.59
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Karnataka,2,,0.031,7.58,41.21
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Kerala,2,,0.002,0.55,36.92
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Madhya Pradesh,2,,0.09,20.63,43.7
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Maharashtra,2,,0.033,7.81,41.77
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Manipur,2,,0.034,8.1,41.91
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Meghalaya,2,,0.133,27.79,48.01
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Mizoram,2,,0.024,5.3,45.62
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Nagaland,2,,0.066,15.43,42.61
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Odisha,2,,0.07,15.68,44.5
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Punjab,2,,0.02,4.75,41.22
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Rajasthan,2,,0.065,15.31,42.7
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Sikkim,2,,0.011,2.6,41.02
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Tamil Nadu,2,,0.009,2.2,38.7
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Telangana,2,,0.024,5.88,40.85
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Tripura,2,,0.056,13.11,42.68
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Uttar Pradesh,2,,0.103,22.93,44.83
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Uttarakhand,2,,0.041,9.67,41.99
+IND,India,South Asia,Asia,NFHS,2019-2021,State,West Bengal,2,,0.05,11.89,42.35
+IND,India,South Asia,Asia,NFHS,2019-2021,Union Territory,Andaman & Nicobar Islands,1,,0.009,2.3,40.62
+IND,India,South Asia,Asia,NFHS,2019-2021,Union Territory,Chandigarh,1,,0.017,3.52,47.41
+IND,India,South Asia,Asia,NFHS,2019-2021,Union Territory,Dadra & Nagar Haveli & Daman & Diu,1,,0.039,9.21,42.15
+IND,India,South Asia,Asia,NFHS,2019-2021,Union Territory,Delhi,1,,0.014,3.43,41.99
+IND,India,South Asia,Asia,NFHS,2019-2021,Union Territory,Jammu & Kashmir,1,,0.02,4.8,42.11
+IND,India,South Asia,Asia,NFHS,2019-2021,Union Territory, Ladakh,1,,0.015,3.53,41.2
+IND,India,South Asia,Asia,NFHS,2019-2021,Union Territory,Lakshadweep,1,,0.004,1.11,36.47
+IND,India,South Asia,Asia,NFHS,2019-2021,Union Territory,Puducherry,1,,0.003,0.85,38.03
