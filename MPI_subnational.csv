@@ -450,7 +450,7 @@ COL,Colombia,,South America,National Quality of Life Survey (ECV) 2021 and 2032,
 COL,Colombia,,South America,National Quality of Life Survey (ECV) 2021 and 2033,2022,Region,Bogota,1,,0.014706,3.8,38.7
 COL,Colombia,,South America,National Quality of Life Survey (ECV) 2021 and 2034,2022,Region,Antioch,1,,0.041944,10.7,39.2
 COL,Colombia,,South America,National Quality of Life Survey (ECV) 2021 and 2035,2022,Region,Cauca's Valley,1,,0.038024,9.7,39.2
-GTM,Guatemala,,Central America,Encovi ,2014,Region,Metropolitan ,1,,0.139,30.7,45.2
+GTM,Guatemala,,Central America,Encovi ,2014,Region,kaffrine,1,,0.139,30.7,45.2
 GTM,Guatemala,,Central America,Encovi ,2014,Region,Central ,1,,0.234,52.8,44.4
 GTM,Guatemala,,Central America,Encovi ,2014,Region,Southwestern ,1,,0.302,66.3,45.5
 GTM,Guatemala,,Central America,Encovi ,2014,Region,Northeast ,1,,0.336,65.9,51
@@ -483,34 +483,34 @@ LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Ratnapura,2,3.5,0.116,28,41.3
 LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Monaragala,2,2.9,0.141,32.7,43.2
 LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Badulla,2,4.2,0.153,36.6,41.8
 LKA,Sri Lanka,South Asia,Asia,HIES,2019,district,Nuwara Eliya,2,3.1,0.193,44.2,43.8
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Andhra Pradesh,2,,0.025,6.06,41.12
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Arunachal Pradesh,2,,0.059,13.76,43.04
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Assam,2,,0.086,19.35,44.41
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Bihar,2,,0.16,33.76,47.4
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Chhattisgarh,2,,0.07,16.37,42.61
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Goa,2,,0.003,0.84,38.69
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Gujarat,2,,0.05,11.66,43.25
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Haryana,2,,0.031,7.07,43.34
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Himachal Pradesh,2,,0.02,4.93,40.22
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Jharkhand,2,,0.131,28.81,45.59
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Karnataka,2,,0.031,7.58,41.21
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Kerala,2,,0.002,0.55,36.92
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Madhya Pradesh,2,,0.09,20.63,43.7
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Maharashtra,2,,0.033,7.81,41.77
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Manipur,2,,0.034,8.1,41.91
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Meghalaya,2,,0.133,27.79,48.01
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Mizoram,2,,0.024,5.3,45.62
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Nagaland,2,,0.066,15.43,42.61
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Odisha,2,,0.07,15.68,44.5
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Punjab,2,,0.02,4.75,41.22
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Rajasthan,2,,0.065,15.31,42.7
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Sikkim,2,,0.011,2.6,41.02
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Tamil Nadu,2,,0.009,2.2,38.7
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Telangana,2,,0.024,5.88,40.85
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Tripura,2,,0.056,13.11,42.68
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Uttar Pradesh,2,,0.103,22.93,44.83
-IND,India,South Asia,Asia,NFHS,2019-2021,State,Uttarakhand,2,,0.041,9.67,41.99
-IND,India,South Asia,Asia,NFHS,2019-2021,State,West Bengal,2,,0.05,11.89,42.35
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Andhra Pradesh,1,,0.025,6.06,41.12
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Arunachal Pradesh,1,,0.059,13.76,43.04
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Assam,1,,0.086,19.35,44.41
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Bihar,1,,0.16,33.76,47.4
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Chhattisgarh,1,,0.07,16.37,42.61
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Goa,1,,0.003,0.84,38.69
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Gujarat,1,,0.05,11.66,43.25
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Haryana,1,,0.031,7.07,43.34
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Himachal Pradesh,1,,0.02,4.93,40.22
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Jharkhand,1,,0.131,28.81,45.59
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Karnataka,1,,0.031,7.58,41.21
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Kerala,1,,0.002,0.55,36.92
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Madhya Pradesh,1,,0.09,20.63,43.7
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Maharashtra,1,,0.033,7.81,41.77
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Manipur,1,,0.034,8.1,41.91
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Meghalaya,1,,0.133,27.79,48.01
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Mizoram,1,,0.024,5.3,45.62
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Nagaland,1,,0.066,15.43,42.61
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Odisha,1,,0.07,15.68,44.5
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Punjab,1,,0.02,4.75,41.22
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Rajasthan,1,,0.065,15.31,42.7
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Sikkim,1,,0.011,2.6,41.02
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Tamil Nadu,1,,0.009,2.2,38.7
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Telangana,1,,0.024,5.88,40.85
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Tripura,1,,0.056,13.11,42.68
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Uttar Pradesh,1,,0.103,22.93,44.83
+IND,India,South Asia,Asia,NFHS,2019-2021,State,Uttarakhand,1,,0.041,9.67,41.99
+IND,India,South Asia,Asia,NFHS,2019-2021,State,West Bengal,1,,0.05,11.89,42.35
 IND,India,South Asia,Asia,NFHS,2019-2021,Union Territory,Andaman & Nicobar Islands,1,,0.009,2.3,40.62
 IND,India,South Asia,Asia,NFHS,2019-2021,Union Territory,Chandigarh,1,,0.017,3.52,47.41
 IND,India,South Asia,Asia,NFHS,2019-2021,Union Territory,Dadra & Nagar Haveli & Daman & Diu,1,,0.039,9.21,42.15
